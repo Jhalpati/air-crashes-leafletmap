@@ -1,11 +1,15 @@
 import React, { useState, useEffect } from "react";
 import { MapContainer, TileLayer, useMap, Marker, Popup } from "react-leaflet";
+import L, { setOptions } from "leaflet";
 import "./App.css";
+import airFatalitites from './air-fatalitites.json';
 
 export default function App() {
+
+  console.log(airFatalitites);
   return (
     <div className="leaftlet-container">
-      <MapContainer
+            <MapContainer
         center={[51.505, -0.09]}
         zoom={13}
         scrollWheelZoom={true}
@@ -16,11 +20,21 @@ export default function App() {
           url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
         />
 
-        <Marker position={[51.505, -0.09]}>
-          <Popup>
-            <p>A pop up</p>
-          </Popup>
-        </Marker>
+
+      {airFatalitites.map(airFatality => (
+        <Marker key={airFatality[0]} position={[airFatality.lat, airFatality.long]}>
+        <Popup>
+          <p>Date: {airFatality.Date}</p>
+          <p>Location: {airFatality.Location}</p>
+          <p>Aircraft type: {airFatality["AC Type"]}</p>
+          <p>Operator: {airFatality.Operator}</p>
+          <p>Route: {airFatality.Route}</p>
+          <p>Fatalitites: {airFatality.Fatalities}</p>
+          <p>Summary: {airFatality.Summary}</p>
+        </Popup>
+      </Marker>
+      ))}
+
       </MapContainer>
     </div>
   );
