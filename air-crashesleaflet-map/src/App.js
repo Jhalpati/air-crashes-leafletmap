@@ -22,7 +22,7 @@ export default function App() {
 
 
       {airFatalitites.map(airFatality => (
-        <Marker key={airFatality[0]} position={[airFatality.lat, airFatality.long]}>
+        <Marker key={airFatality.Id} position={[airFatality.lat, airFatality.long]}>
         <Popup>
           <p>Date: {airFatality.Date}</p>
           <p>Location: {airFatality.Location}</p>

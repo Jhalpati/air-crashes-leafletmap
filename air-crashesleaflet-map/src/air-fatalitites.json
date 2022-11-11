@@ -1,5 +1,6 @@
 [
   {
+    "Id": 1,
     "Date": "09/17/1908",
     "Time": "17:18",
     "Location": "Fort Myer, Virginia",
@@ -21,6 +22,7 @@
     "Summary": "During a demonstration flight, a U.S. Army flyer flown by Orville Wright nose-dived into the ground from a height of approximately 75 feet, killing Lt. Thomas E. Selfridge, 26, who was a passenger. This was the first recorded airplane fatality in history.  One of two propellers separated in flight, tearing loose the wires bracing the rudder and causing the loss of control of the aircraft.  Orville Wright suffered broken ribs, pelvis and a leg.  Selfridge suffered a crushed skull and died a short time later."
   },
   {
+    "Id": 2,
     "Date": "09/07/1909",
     "Time": "",
     "Location": "Juvisy-sur-Orge, France",
@@ -42,6 +44,7 @@
     "Summary": "Eugene Lefebvre was the first pilot to ever be killed in an air accident, after his controls jambed while flying in an air show."
   },
   {
+    "Id": 3,
     "Date": "07/12/1912",
     "Time": "06:30",
     "Location": "Atlantic City, New Jersey",
@@ -63,6 +66,7 @@
     "Summary": "First U.S. dirigible Akron exploded just offshore at an altitude of 1,000 ft. during a test flight."
   },
   {
+    "Id": 4,
     "Date": "08/06/1913",
     "Time": "",
     "Location": "Victoria, British Columbia, Canada",
@@ -84,6 +88,7 @@
     "Summary": "The first fatal airplane accident in Canada occurred when American barnstormer, John M. Bryant, California aviator was killed."
   },
   {
+    "Id": 5,
     "Date": "09/09/1913",
     "Time": "18:30",
     "Location": "Over the North Sea",
@@ -105,6 +110,7 @@
     "Summary": "The airship flew into a thunderstorm and encountered a severe downdraft crashing 20 miles north of Helgoland Island into the sea. The ship broke in two and the control car immediately sank drowning its occupants."
   },
   {
+    "Id": 6,
     "Date": "10/17/1913",
     "Time": "10:30",
     "Location": "Near Johannisthal, Germany",
@@ -126,6 +132,7 @@
     "Summary": "Hydrogen gas which was being vented was sucked into the forward engine and ignited causing the airship to explode and burn at 3,000 ft.."
   },
   {
+    "Id": 7,
     "Date": "03/05/1915",
     "Time": "01:00",
     "Location": "Tienen, Belgium",
@@ -147,6 +154,7 @@
     "Summary": "Crashed into trees while attempting to land after being shot down by British and French aircraft."
   },
   {
+    "Id": 8,
     "Date": "09/03/1915",
     "Time": "15:20",
     "Location": "Off Cuxhaven, Germany",
@@ -168,6 +176,7 @@
     "Summary": "Exploded and burned near Neuwerk Island,  when hydrogen gas, being vented, was ignited by lightning."
   },
   {
+    "Id": 9,
     "Date": "07/28/1916",
     "Time": "",
     "Location": "Near Jambol, Bulgeria",
@@ -189,6 +198,7 @@
     "Summary": "Crashed near the Black Sea, cause unknown."
   },
   {
+    "Id": 10,
     "Date": "09/24/1916",
     "Time": "01:00",
     "Location": "Billericay, England",
@@ -210,6 +220,7 @@
     "Summary": "Shot down by British aircraft crashing in flames."
   },
   {
+    "Id": 11,
     "Date": "10/01/1916",
     "Time": "23:45",
     "Location": "Potters Bar, England",
@@ -231,6 +242,7 @@
     "Summary": "Shot down in flames by the British 39th Home Defence Squadron."
   },
   {
+    "Id": 12,
     "Date": "11/21/1916",
     "Time": "",
     "Location": "Mainz, Germany",
@@ -252,6 +264,7 @@
     "Summary": "Crashed in a storm."
   },
   {
+    "Id": 13,
     "Date": "11/28/1916",
     "Time": "23:45",
     "Location": "Off West Hartlepool, England",
@@ -273,6 +286,7 @@
     "Summary": "Shot down by British anti-aircraft fire and aircraft and crashed into the North Sea."
   },
   {
+    "Id": 14,
     "Date": "03/04/1917",
     "Time": "",
     "Location": "Near Gent, Belgium",
@@ -294,6 +308,7 @@
     "Summary": "Caught fire and crashed."
   },
   {
+    "Id": 15,
     "Date": "03/30/1917",
     "Time": "",
     "Location": "Off Northern Germany",
@@ -315,6 +330,7 @@
     "Summary": "Struck by lightning and crashed into the Baltic Sea."
   },
   {
+    "Id": 16,
     "Date": "05/14/1917",
     "Time": "05:15",
     "Location": "Near Texel Island, North Sea",
@@ -336,6 +352,7 @@
     "Summary": "Crashed into the sea from an altitude of 3,000 ft. after being hit by British aircraft fire."
   },
   {
+    "Id": 17,
     "Date": "06/14/1917",
     "Time": "08:45",
     "Location": "Off Vlieland Island, North Sea",
@@ -357,6 +374,7 @@
     "Summary": "Shot down by British aircraft."
   },
   {
+    "Id": 18,
     "Date": "06/17/1917",
     "Time": "",
     "Location": "Near Yarmouth, England",
@@ -378,6 +396,7 @@
     "Summary": "Shot down by aircraft."
   },
   {
+    "Id": 19,
     "Date": "08/21/1917",
     "Time": "07:00",
     "Location": "Off western Denmark",
@@ -399,6 +418,7 @@
     "Summary": "Shot down by British aircraft."
   },
   {
+    "Id": 20,
     "Date": "10/20/1917",
     "Time": "07:45",
     "Location": "Near Luneville, France",
@@ -420,6 +440,7 @@
     "Summary": "Shot down by French anti-aircraft fire."
   },
   {
+    "Id": 21,
     "Date": "04/07/1918",
     "Time": "21:30",
     "Location": "Over the Mediterranean",
@@ -441,6 +462,7 @@
     "Summary": "Exploded and crashed into the sea off the southern coast of Italy."
   },
   {
+    "Id": 22,
     "Date": "05/10/1918",
     "Time": "",
     "Location": "Off Helgoland Island, Germany",
@@ -462,6 +484,7 @@
     "Summary": "Shot down by British aircraft crashing from a height of 17,000 ft."
   },
   {
+    "Id": 23,
     "Date": "08/11/1918",
     "Time": "10:00",
     "Location": "Ameland Island, North Sea",
@@ -483,6 +506,7 @@
     "Summary": "Shot down by british aircraft."
   },
   {
+    "Id": 24,
     "Date": "12/16/1918",
     "Time": "",
     "Location": "Elizabeth, New Jersey",
@@ -504,6 +528,7 @@
     "Summary": "Carl Smith was killed when his mail plane feet 500 feet while attempting to land. He tried to reposition the aircraft after the wind shifted and lost control of the plane and dived into the ground."
   },
   {
+    "Id": 25,
     "Date": "05/25/1919",
     "Time": "",
     "Location": "Cleveland, Ohio",
@@ -525,6 +550,7 @@
     "Summary": "Caught fire in midair. The pilot leaped from the plane to his death as the plane began to go into a dive."
   },
   {
+    "Id": 26,
     "Date": "07/19/1919",
     "Time": "",
     "Location": "Dix Run, Pennsylvania",
@@ -546,6 +572,7 @@
     "Summary": "The mail plane crashed under unknown circumstances."
   },
   {
+    "Id": 27,
     "Date": "07/21/1919",
     "Time": "16:55",
     "Location": "Chicago, Illinois",
@@ -567,6 +594,7 @@
     "Summary": "The dirigible, cruising at 1,200 ft. caught fire and crashed into the Illinois Trust and Savings Building in Chicago. The was transporting people from Grant Park to the White City amusement park.[1] One crew member, two passengers, and ten bank employees were killed"
   },
   {
+    "Id": 28,
     "Date": "08/02/1919",
     "Time": "",
     "Location": "Verona, Italy",
@@ -588,6 +616,7 @@
     "Summary": "As the plane was passing over Verona the wings began to flutter and then collapsed and crashed. Sources differ as to the number of deaths with some reporting 15 or 17."
   },
   {
+    "Id": 29,
     "Date": "10/02/1919",
     "Time": "",
     "Location": "Newcastle, England",
@@ -609,6 +638,7 @@
     "Summary": ""
   },
   {
+    "Id": 30,
     "Date": "10/14/1919",
     "Time": "",
     "Location": "Cantonsville, Maryland",
@@ -630,6 +660,7 @@
     "Summary": "The pilot was performing a mail flight to Baltimore. While on final approach, in fog, the aircraft hit tree tops and crashed into the woods."
   },
   {
+    "Id": 31,
     "Date": "10/20/1919",
     "Time": "",
     "Location": "English Channel off Forkstone, Kent",
@@ -651,6 +682,7 @@
     "Summary": "Crashed into the sea while attempting to land in fog."
   },
   {
+    "Id": 32,
     "Date": "10/30/1919",
     "Time": "",
     "Location": "Long Valley, New Jersey",
@@ -672,6 +704,7 @@
     "Summary": "While on a mail flight to New York the pilot encountered bad weather conditions and reduced his altitude to maintain a visual contact with the ground. Eventually, he decided to make an emergency landing in Long Valley, west of Newark. Aircraft hit the ground and crashed."
   },
   {
+    "Id": 33,
     "Date": "12/11/1919",
     "Time": "",
     "Location": "Catherham, Surrey, UK",
@@ -693,6 +726,7 @@
     "Summary": "Crashed in a field while attemptting to land."
   },
   {
+    "Id": 34,
     "Date": "03/10/1920",
     "Time": "",
     "Location": "New Paris, Indiana",
@@ -714,6 +748,7 @@
     "Summary": "While on a a mail flight, the aircraft hit trees in fog and crashed in a wooded area."
   },
   {
+    "Id": 35,
     "Date": "03/30/1920",
     "Time": "",
     "Location": "Newark, New Jersey",
@@ -735,6 +770,7 @@
     "Summary": "George Sherlock was killed when his mail plane crashed into a chimney while attempting to land at Heller Field in poor visibility."
   },
   {
+    "Id": 36,
     "Date": "04/10/1920",
     "Time": "",
     "Location": "Newark, New Jersey",
@@ -756,6 +792,7 @@
     "Summary": "After a fire erupted in flight the pilot decided to make an emergency landing but the aircraft crashed."
   },
   {
+    "Id": 37,
     "Date": "04/11/1920",
     "Time": "",
     "Location": "Heller Field, New Jersey",
@@ -777,6 +814,7 @@
     "Summary": "The aircraft crashed while on approach for unknown reasons."
   },
   {
+    "Id": 38,
     "Date": "05/12/1920",
     "Time": "",
     "Location": "Oskaloosa, Iowa",
@@ -798,6 +836,7 @@
     "Summary": "In worsening weather conditions, the pilot lost his sense of orientation and crashed in a field."
   },
   {
+    "Id": 39,
     "Date": "06/06/1920",
     "Time": "",
     "Location": "Cleveland, Ohio",
@@ -819,6 +858,7 @@
     "Summary": "The aircraft suffered engine failure and crashed shortly after taking off."
   },
   {
+    "Id": 40,
     "Date": "07/20/1920",
     "Time": "",
     "Location": "Cartagena, Columbia",
@@ -840,6 +880,7 @@
     "Summary": "Crashed while taking off after engine failure. Engine failure due to fuel exhaustion."
   },
   {
+    "Id": 41,
     "Date": "08/16/1920",
     "Time": "",
     "Location": "Bedford, England",
@@ -861,6 +902,7 @@
     "Summary": "The plane crashed during a cargo flight under unknown circumstances."
   },
   {
+    "Id": 42,
     "Date": "08/16/1920",
     "Time": "",
     "Location": "College Park, Maryland",
@@ -882,6 +924,7 @@
     "Summary": "While approaching in poor visibility to land, the plane hit a radio mast and crashed in flames."
   },
   {
+    "Id": 43,
     "Date": "09/01/1920",
     "Time": "",
     "Location": "Morristown, New Jersey",
@@ -903,6 +946,7 @@
     "Summary": "While en route, the mail plane went out of control and crashed after experiencing an in flight fire."
   },
   {
+    "Id": 44,
     "Date": "09/15/1920",
     "Time": "",
     "Location": "Pemberville, Ohio",
@@ -924,6 +968,7 @@
     "Summary": "The pilot crashed after attempting to make an emergency landing after the engine caught fire."
   },
   {
+    "Id": 45,
     "Date": "09/27/1920",
     "Time": "",
     "Location": "Hillersburg, Pennsylvania",
@@ -945,6 +990,7 @@
     "Summary": "The plane struck power lines and crashed in flames after flying at a low altitude in poor visibility."
   },
   {
+    "Id": 46,
     "Date": "10/02/1920",
     "Time": "",
     "Location": "Off Port Vendres, France",
@@ -966,6 +1012,7 @@
     "Summary": "Crashed into the Mediterranean while on a mail flight."
   },
   {
+    "Id": 47,
     "Date": "10/05/1920",
     "Time": "",
     "Location": "Valencia, Spain",
@@ -987,6 +1034,7 @@
     "Summary": "While on a mail flight the plane crashed while attempting to land."
   },
   {
+    "Id": 48,
     "Date": "10/15/1920",
     "Time": "",
     "Location": "Batavia, Illinois",
@@ -1008,6 +1056,7 @@
     "Summary": "While attempting to land in fog the aircraft hit an obstruction and crashed."
   },
   {
+    "Id": 49,
     "Date": "11/07/1920",
     "Time": "",
     "Location": "Tie Siding, Wyoming",
@@ -1029,6 +1078,7 @@
     "Summary": "The aircraft crashed into a mountain in poor weather condtions."
   },
   {
+    "Id": 50,
     "Date": "12/14/1920",
     "Time": "12:15",
     "Location": "London, England",
@@ -1050,6 +1100,7 @@
     "Summary": "The plane failed to gain altitude after taking off from Criclklewood and crashed into a tree and a house. Pilot error in taking off towards a hill in unfavorable wind conditions and fog.The first commercial air disaster to result in passenger fatalities during a regularly scheduled service.."
   },
   {
+    "Id": 51,
     "Date": "12/24/1920",
     "Time": "",
     "Location": "Barcelona, Spain",
@@ -1071,6 +1122,7 @@
     "Summary": "The aircraft stalled and crashed when an engine failed."
   },
   {
+    "Id": 52,
     "Date": "02/03/1921",
     "Time": "",
     "Location": "Mendotta, Minnisota",
@@ -1092,6 +1144,7 @@
     "Summary": "Shortly after takeoff from Minneapolis-World Chamberlain Field the engine failed. The aircraft lost altitude and crashed  in a field."
   },
   {
+    "Id": 53,
     "Date": "02/09/1921",
     "Time": "",
     "Location": "La Crosse, Wisconsin",
@@ -1113,6 +1166,7 @@
     "Summary": "Crashed for unknown reasons. Both pilots and the mechanic were killed."
   },
   {
+    "Id": 54,
     "Date": "02/15/1921",
     "Time": "",
     "Location": "Off Gibraltar",
@@ -1134,6 +1188,7 @@
     "Summary": "The mail fligh encountered poor weather conditions and crashed into the ocean while on approach to Gibraltar. The bodies of the crew were never recovered."
   },
   {
+    "Id": 55,
     "Date": "02/22/1921",
     "Time": "",
     "Location": "Elko, Nevada",
@@ -1155,6 +1210,7 @@
     "Summary": "Shortly after taking off, the aircraft stalled and crashed ."
   },
   {
+    "Id": 56,
     "Date": "04/06/1921",
     "Time": "",
     "Location": "Point Cook, Australia",
@@ -1176,6 +1232,7 @@
     "Summary": "Shortly after taking off on a training flight, the aircraft dove into the ground and exploded in flames."
   },
   {
+    "Id": 57,
     "Date": "04/21/1921",
     "Time": "",
     "Location": "Mitchel Field, NY",
@@ -1197,6 +1254,7 @@
     "Summary": "After taking off the aircraft stalled and crashed."
   },
   {
+    "Id": 58,
     "Date": "04/29/1921",
     "Time": "",
     "Location": "Cleveland, Ohio",
@@ -1218,6 +1276,7 @@
     "Summary": "The aircraft crashed in a field, short of the runway, a few minutes before its scheduled arrival in Cleveland. The weather was poor with fog."
   },
   {
+    "Id": 59,
     "Date": "05/17/1921",
     "Time": "",
     "Location": "Rock Springs, Wyoming",
@@ -1239,6 +1298,7 @@
     "Summary": "Crashed while attempting to land."
   },
   {
+    "Id": 60,
     "Date": "08/14/1921",
     "Time": "",
     "Location": "Toulouse, France",
@@ -1260,6 +1320,7 @@
     "Summary": ""
   },
   {
+    "Id": 61,
     "Date": "08/24/1921",
     "Time": "17:40",
     "Location": "River Humber, England",
@@ -1281,6 +1342,7 @@
     "Summary": "Crashed due to structural failure followed by two explosions and a fire. Attributed to faulty design."
   },
   {
+    "Id": 62,
     "Date": "09/06/1921",
     "Time": "",
     "Location": "Paris, France",
@@ -1302,6 +1364,7 @@
     "Summary": "Crashed while making an approach to Le Bourget Airport in Paris. Pilot aborted the landing due to another aircraft on the runway."
   },
   {
+    "Id": 63,
     "Date": "12/05/1921",
     "Time": "",
     "Location": "Near Murchinson River, Australia",
@@ -1323,6 +1386,7 @@
     "Summary": "On approach to Geraldton the plane crashed near the Murchinson River. Considered the first commercial flight in Australila."
   },
   {
+    "Id": 64,
     "Date": "01/14/1922",
     "Time": "",
     "Location": "Paris, France",
@@ -1344,6 +1408,7 @@
     "Summary": "Crashed at Le Bourget field."
   },
   {
+    "Id": 65,
     "Date": "02/21/1922",
     "Time": "",
     "Location": "Near Norfolk, Virginia",
@@ -1365,6 +1430,7 @@
     "Summary": "Crashed from a height of 500 ft. after experiencing control problems cause by malfunctioning controls."
   },
   {
+    "Id": 66,
     "Date": "03/22/1922",
     "Time": "11:40",
     "Location": "North Atlantic Ocean",
@@ -1386,6 +1452,7 @@
     "Summary": "The plane ditched into the ocean about 40 miles East of Florida after a propeller blade broke. Only the pilot survived, being picked up over 2 days later. The flying boat was named Miss Miami."
   },
   {
+    "Id": 67,
     "Date": "04/07/1922",
     "Time": "13:15",
     "Location": "Grandvilliers, France",
@@ -1407,6 +1474,7 @@
     "Summary": "A midair collision occurred at 400 ft. in poor visibility approximately 18 miles north of Beauvais, France. The pilots of both planes were using the road as a route marker in bad weather and poor visibility. This was the  first commercial midair collision in aviation history. Two killed on the de Havilland, five on the Faman F-60."
   },
   {
+    "Id": 68,
     "Date": "04/08/1922",
     "Time": "",
     "Location": "Pao Ting Fou, China",
@@ -1428,6 +1496,7 @@
     "Summary": "Aboard were all workers taking part in a flight test. All seventeen aboard were Chinese nationals."
   },
   {
+    "Id": 69,
     "Date": "06/03/1922",
     "Time": "",
     "Location": "Off Folkestone, Kent, England",
@@ -1449,6 +1518,7 @@
     "Summary": "Went down into the English Channel while en route."
   },
   {
+    "Id": 70,
     "Date": "07/04/1922",
     "Time": "",
     "Location": "Fuhlsbuttel, Germany",
@@ -1470,6 +1540,7 @@
     "Summary": "The passenger/mail plane lost it's engine while taking off and crashed into trees. Actress Fern Andra survived the accident but her director, Georg Bluen did not. The pilot, Lothar von Richthofen, was also killed. He was a World War I ace and brother of Manfred von Richthofen (The Red Baron)."
   },
   {
+    "Id": 71,
     "Date": "07/16/1922",
     "Time": "16:45",
     "Location": "Near Saverne, Lorraine, France",
@@ -1491,6 +1562,7 @@
     "Summary": "Lost an engine and could not make an emergency landing because of gusty winds. Stalled while making a turn and crashed."
   },
   {
+    "Id": 72,
     "Date": "07/26/1922",
     "Time": "",
     "Location": "Cadix, Spain",
@@ -1512,6 +1584,7 @@
     "Summary": "While attempting to make an emergency landing due to engine problems, the aircraft hit telephone lines and crashed."
   },
   {
+    "Id": 73,
     "Date": "09/07/1922",
     "Time": "",
     "Location": "Indianapolis, Indiana",
@@ -1533,6 +1606,7 @@
     "Summary": "The plane stalled shortly after takeoff and crashed."
   },
   {
+    "Id": 74,
     "Date": "10/02/1922",
     "Time": "",
     "Location": "Venice, Italy",
@@ -1554,6 +1628,7 @@
     "Summary": "Shortly after taking off the plane crashed into the sea and sank."
   },
   {
+    "Id": 75,
     "Date": "10/25/1922",
     "Time": "",
     "Location": "Larache, Morocco",
@@ -1575,6 +1650,7 @@
     "Summary": "Crashed under unknown circumstances."
   },
   {
+    "Id": 76,
     "Date": "12/03/1922",
     "Time": "",
     "Location": "Fez, Morocco",
@@ -1596,6 +1672,7 @@
     "Summary": "While flying in foggy conditions the pilot reduced altitude and crashed into a hill."
   },
   {
+    "Id": 77,
     "Date": "01/10/1923",
     "Time": "",
     "Location": "Ajaccio, France",
@@ -1617,6 +1694,7 @@
     "Summary": "The plane crashed mid-air due to a structural failure of the tail."
   },
   {
+    "Id": 78,
     "Date": "01/17/1923",
     "Time": "",
     "Location": "Barcelona, Spain",
@@ -1638,6 +1716,7 @@
     "Summary": "Crashed into a mountain during a snowstorm."
   },
   {
+    "Id": 79,
     "Date": "01/18/1923",
     "Time": "",
     "Location": "Cheyenne, Wyoming",
@@ -1659,6 +1738,7 @@
     "Summary": "Crashed during a mail flight."
   },
   {
+    "Id": 80,
     "Date": "02/26/1923",
     "Time": "",
     "Location": "Meadville, Pennsylvania",
@@ -1680,6 +1760,7 @@
     "Summary": "The pilot lost control of the aircraft  while on approach in poor weather conditions."
   },
   {
+    "Id": 81,
     "Date": "05/14/1923",
     "Time": "13:42",
     "Location": "Near Amiens, Picrdie, France",
@@ -1701,6 +1782,7 @@
     "Summary": "Broke-up in mid air after suffering structural failure at 3,000 ft. after a onboard fire weakened the plane's structure losing a wing. Possibly started by a passenger discarding a match after lighting a cigarette."
   },
   {
+    "Id": 82,
     "Date": "08/27/1923",
     "Time": "17:30",
     "Location": "East Mallling, United Kingdom",
@@ -1722,6 +1804,7 @@
     "Summary": "The aircraft lost an engine about 45 minutes into the flight. As the plane was incapable of maintaining level flight with only one engine operating, the pilot decided to make an emergency landing. He asked the mechanic to ask two passengers to move towards the rear of the aircraft. This instruction was apparently misunderstood by the passengers, as four of them moved towards the rear of the aircraft. This affected the center of gravity of the aircraft, which then entered into a spin and crashed."
   },
   {
+    "Id": 83,
     "Date": "08/27/1923",
     "Time": "",
     "Location": "Bucharest, Romania",
@@ -1743,6 +1826,7 @@
     "Summary": "Crashed while on approach to Bucharesst."
   },
   {
+    "Id": 84,
     "Date": "09/07/1923",
     "Time": "",
     "Location": "Colton, Ohio",
@@ -1764,6 +1848,7 @@
     "Summary": "Crashed during an emergency landing attempt."
   },
   {
+    "Id": 85,
     "Date": "09/14/1923",
     "Time": "18:00",
     "Location": "Near Ivinghoe, Buckinghamshire, England",
@@ -1785,6 +1870,7 @@
     "Summary": "Crashed while attempting a forced landing after encountering heavy rain."
   },
   {
+    "Id": 86,
     "Date": "11/18/1923",
     "Time": "",
     "Location": "Russia",
@@ -1806,6 +1892,7 @@
     "Summary": "Crashed during a training flight."
   },
   {
+    "Id": 87,
     "Date": "12/06/1923",
     "Time": "",
     "Location": "Castalia, Ohio",
@@ -1827,6 +1914,7 @@
     "Summary": "Crashed under unknown circumstances."
   },
   {
+    "Id": 88,
     "Date": "12/23/1923",
     "Time": "02:30",
     "Location": "Over the Mediterranean Sea",
@@ -1848,6 +1936,7 @@
     "Summary": "Crashed while on a flight from Toulon, France to Algiers, Algeria.  The last known radio contact reported the ship nearly out of fuel and battling strong winds.  Struck by lightning."
   },
   {
+    "Id": 89,
     "Date": "12/24/1923",
     "Time": "",
     "Location": "Egbert, WY",
@@ -1869,6 +1958,7 @@
     "Summary": "Crashed into a montain in poor weather conditions."
   },
   {
+    "Id": 90,
     "Date": "03/07/1924",
     "Time": "",
     "Location": "Grampian, Pennsylvania",
@@ -1890,6 +1980,7 @@
     "Summary": "Crashed during a snowstorm."
   },
   {
+    "Id": 91,
     "Date": "04/24/1924",
     "Time": "",
     "Location": "Over the English Channel",
@@ -1911,6 +2002,7 @@
     "Summary": "The aircraft disappeared over the North Sea. The plane and passengers were never found."
   },
   {
+    "Id": 92,
     "Date": "06/08/1924",
     "Time": "",
     "Location": "Barranquilla, Colombia",
@@ -1932,6 +2024,7 @@
     "Summary": "Stalled after taking off and crashed into houses.."
   },
   {
+    "Id": 93,
     "Date": "08/01/1924",
     "Time": "",
     "Location": "United States",
@@ -1953,6 +2046,7 @@
     "Summary": "The pliot made a low pass in honor of another pilot who had died, stalled and cashed."
   },
   {
+    "Id": 94,
     "Date": "11/06/1924",
     "Time": "",
     "Location": "Cabrerolles, France",
@@ -1974,6 +2068,7 @@
     "Summary": "While en route the pilot encountered thunderstorms, lost control and crashed."
   },
   {
+    "Id": 95,
     "Date": "12/21/1924",
     "Time": "",
     "Location": "Goshen, Indiana",
@@ -1995,6 +2090,7 @@
     "Summary": "Lost in a snowstorm, the pilot decided to bail out of the plane but was killed."
   },
   {
+    "Id": 96,
     "Date": "12/24/1924",
     "Time": "12:00",
     "Location": "Purley, England",
@@ -2016,6 +2112,7 @@
     "Summary": "Shortly after taking off, witnesses observed a puff of white smoke after which the plane nose-dived into the ground. Crashed due to an unknown mechanical failure and subsiquent stall. Captain Stewart and seven passengers were killed in an attempted forced landing."
   },
   {
+    "Id": 97,
     "Date": "03/22/1925",
     "Time": "",
     "Location": "Near Tiflis, Georgia, USSR",
@@ -2037,6 +2134,7 @@
     "Summary": "Shortly after take off the plane went out of control and crashed in flames."
   },
   {
+    "Id": 98,
     "Date": "04/25/1925",
     "Time": "",
     "Location": "Alicante, Spain",
@@ -2058,6 +2156,7 @@
     "Summary": "Shortly after takeoff, while flying at a low altitude, in poor visibility, the, aircraft hit a lightning rod, stalled and crashed."
   },
   {
+    "Id": 99,
     "Date": "06/25/1925",
     "Time": "",
     "Location": "Landrécies, France",
@@ -2079,6 +2178,7 @@
     "Summary": "While in a turn in bad weather, the right wing struck trees and the plane crashed. Failure of an aileron in flight."
   },
   {
+    "Id": 100,
     "Date": "06/26/1925",
     "Time": "",
     "Location": "Alicante, Spain",
@@ -2100,6 +2200,7 @@
     "Summary": "While attempting to land the seaplane hit a lightning mast and crashed."
   },
   {
+    "Id": 101,
     "Date": "07/20/1925",
     "Time": "",
     "Location": "Rosas, Spain",
@@ -2121,6 +2222,7 @@
     "Summary": "Crashed in unknown circumstance."
   },
   {
+    "Id": 102,
     "Date": "07/24/1925",
     "Time": "",
     "Location": "Budapest, Hungary",
@@ -2142,6 +2244,7 @@
     "Summary": "Crashed while attempting to land 10 km from the airport"
   },
   {
+    "Id": 103,
     "Date": "09/03/1925",
     "Time": "05:30",
     "Location": "Caldwell, Ohio",
@@ -2163,6 +2266,7 @@
     "Summary": "The Shenandoah was flying over Southern Ohio when she abruptly encountered violent atmospheric conditions (thunderstorms). Powerful air currents buffeted her so severely that her crew was unable to maintain control. Rising rapidly above her pressure height, then falling and rising again, her hull structure was overstressed amidships, breaking the airship in two. Shenandoah's external control car and two engine cars fell free, carrying the dirigible's commanding officer and several other men to their deaths. The stern section came down nearby, while several men were able to fly the bow section to ground as a free balloon."
   },
   {
+    "Id": 104,
     "Date": "09/07/1925",
     "Time": "",
     "Location": "Toul, France",
@@ -2184,6 +2288,7 @@
     "Summary": ""
   },
   {
+    "Id": 105,
     "Date": "10/01/1925",
     "Time": "",
     "Location": "Mt. Nittany, Ohio",
@@ -2205,6 +2310,7 @@
     "Summary": "Crashed into a wooded area on Mt. Nittany in fog and low visibility."
   },
   {
+    "Id": 106,
     "Date": "11/14/1925",
     "Time": "",
     "Location": "Nouadhibou, Mauritania",
@@ -2226,6 +2332,7 @@
     "Summary": "The pilot suffered sunstroke lost control of the plane and crashed."
   },
   {
+    "Id": 107,
     "Date": "11/14/1925",
     "Time": "",
     "Location": "Off Boulogne-sur-Mer, France",
@@ -2247,6 +2354,7 @@
     "Summary": ""
   },
   {
+    "Id": 108,
     "Date": "02/12/1926",
     "Time": "",
     "Location": "Montpelier, Ohio",
@@ -2268,6 +2376,7 @@
     "Summary": "While the mail plane was flying at a low altitude, the  aircraft hit trees and crashed in a wooded area."
   },
   {
+    "Id": 109,
     "Date": "03/08/1926",
     "Time": "",
     "Location": "Staaken, Germany",
@@ -2289,6 +2398,7 @@
     "Summary": "While in a training filight the aircraft stalled and crashed while attempting to land."
   },
   {
+    "Id": 110,
     "Date": "05/31/1926",
     "Time": "",
     "Location": "English Channel",
@@ -2310,6 +2420,7 @@
     "Summary": "The mail plane crashed into the English Channel and was never found."
   },
   {
+    "Id": 111,
     "Date": "07/03/1926",
     "Time": "",
     "Location": "Rossaugpt, Czechoslovakia",
@@ -2331,6 +2442,7 @@
     "Summary": "Crashed while en route into a mountain in adverse weather conditions. The pilot was flying at too low of an altitude."
   },
   {
+    "Id": 112,
     "Date": "07/09/1926",
     "Time": "09:30",
     "Location": "Wolvertem, Belgium",
@@ -2352,6 +2464,7 @@
     "Summary": "Crashed into the ground while descending in poor weather."
   },
   {
+    "Id": 113,
     "Date": "07/24/1926",
     "Time": "",
     "Location": "Juist, Germany",
@@ -2373,6 +2486,7 @@
     "Summary": "Crashed under weather related.circumstances."
   },
   {
+    "Id": 114,
     "Date": "08/18/1926",
     "Time": "",
     "Location": "Hurst, Kent, England",
@@ -2394,6 +2508,7 @@
     "Summary": "The plane made a forced landing at Romney Marsh  in heavy fog.  Engine failure. The pilot initally survived but died a day later."
   },
   {
+    "Id": 115,
     "Date": "09/26/1926",
     "Time": "",
     "Location": "New York, New York",
@@ -2415,6 +2530,7 @@
     "Summary": "Too much weight caused the landing gear to collapse as the plane took off for Paris on the first trans-Atlantic passenger flight."
   },
   {
+    "Id": 116,
     "Date": "10/02/1926",
     "Time": "15:27",
     "Location": "Leigh, Kent, Unied Kingdom",
@@ -2436,6 +2552,7 @@
     "Summary": "After an engine fire, the pilot attempts to make an emergency landing at Penshurst Airfield but crashed.."
   },
   {
+    "Id": 117,
     "Date": "10/08/1926",
     "Time": "",
     "Location": "Bueren, Germany",
@@ -2457,6 +2574,7 @@
     "Summary": "Weather related."
   },
   {
+    "Id": 118,
     "Date": "10/21/1926",
     "Time": "13:15",
     "Location": "English Channel",
@@ -2478,6 +2596,7 @@
     "Summary": "The plane was on a flight from London to Paris when power was lost to the starboard engine. The aircraft began to lose altitude until it eventually ditched into the sea about 18 miles from the English coast. The plane stayed afloat long enough for the fishing boat Invicta, piloted by Captain Marshall, to rescue all aboard. The plane was named Prince Henry."
   },
   {
+    "Id": 119,
     "Date": "11/11/1926",
     "Time": "08:00",
     "Location": "Cape Bojador, Morocco",
@@ -2499,6 +2618,7 @@
     "Summary": "While en route and cruising along the shore, the mail plane's engine failed. The crew made an emergency landing on a beach near Cape Bojador. After the landing, crew was attacked by Maures tribesmen and killed while the aircraft was set on fire and destroyed."
   },
   {
+    "Id": 120,
     "Date": "12/16/1926",
     "Time": "",
     "Location": "Medford, Oregon",
@@ -2520,6 +2640,7 @@
     "Summary": "The postal plane crashed into a mountain slope in foggy conditions."
   },
   {
+    "Id": 121,
     "Date": "01/12/1927",
     "Time": "",
     "Location": "Estaires, France",
@@ -2541,6 +2662,7 @@
     "Summary": "The flight crew encountered poor weather conditions and made an emergency landing. The aircraft landed in a field badly damaged and written off."
   },
   {
+    "Id": 122,
     "Date": "03/20/1927",
     "Time": "",
     "Location": "Rabat, Morocco",
@@ -2562,6 +2684,7 @@
     "Summary": "Unknown."
   },
   {
+    "Id": 123,
     "Date": "03/24/1927",
     "Time": "",
     "Location": "Tambo, Qld, Australia",
@@ -2583,6 +2706,7 @@
     "Summary": "While attempting to land, the engine failed, the aircraft stalled and crashed."
   },
   {
+    "Id": 124,
     "Date": "04/15/1927",
     "Time": "",
     "Location": "King Hill, Idaho",
@@ -2604,6 +2728,7 @@
     "Summary": "Crashed after an unsuccessful attempt at fly into strong headwinds. The engine quit and the plane nosedived into the ground."
   },
   {
+    "Id": 125,
     "Date": "04/22/1927",
     "Time": "",
     "Location": "Floh, Germany",
@@ -2625,6 +2750,7 @@
     "Summary": "Crashed following engine failure."
   },
   {
+    "Id": 126,
     "Date": "04/22/1927",
     "Time": "",
     "Location": "Goshen, Indiana",
@@ -2646,6 +2772,7 @@
     "Summary": "Crashed into a field during a snow storm."
   },
   {
+    "Id": 127,
     "Date": "05/02/1927",
     "Time": "",
     "Location": "Algiers, Algeria",
@@ -2667,6 +2794,7 @@
     "Summary": "The three engine seaplane stalled and crashed into the sea shortly after taking off."
   },
   {
+    "Id": 128,
     "Date": "07/27/1927",
     "Time": "",
     "Location": "Amoneburg, Germany",
@@ -2688,6 +2816,7 @@
     "Summary": "Crashed after experiencing engine failure and attempting to make a forced landing."
   },
   {
+    "Id": 129,
     "Date": "08/22/1927",
     "Time": "08:30",
     "Location": "Sevenoaks, England",
@@ -2709,6 +2838,7 @@
     "Summary": "A broken wire led to the partial loss of the the rudder and a crash landing which resulted in the aircraft striking a tree, killing the flight engineer."
   },
   {
+    "Id": 130,
     "Date": "09/03/1927",
     "Time": "",
     "Location": "Willington, Connecticut",
@@ -2730,6 +2860,7 @@
     "Summary": "The postal plane crashed for unknown reasons."
   },
   {
+    "Id": 131,
     "Date": "09/17/1927",
     "Time": "",
     "Location": "Hadley, New Jersey",
@@ -2751,6 +2882,7 @@
     "Summary": "The sightseeing plane took off and rose to 400 ft. when the engine failed.  The plane stalled and plunged to the ground in an apple orchard. Engine failure. The pilot was not familiar with the type of aircraft."
   },
   {
+    "Id": 132,
     "Date": "09/17/1927",
     "Time": "04:05",
     "Location": "Atlantic Ocean",
@@ -2772,6 +2904,7 @@
     "Summary": "While flying 1,000 km east of the Canadian coast, the crew sent a mayday message and the aircraft crashed into the ocean two minutes later. The plane was owned by William Randolph Hearst who financed this nonstop transatlantic flight."
   },
   {
+    "Id": 133,
     "Date": "09/23/1927",
     "Time": "10:00",
     "Location": "Schleiz, Germany",
@@ -2793,6 +2926,7 @@
     "Summary": "From an altitude of 500 ft. the plane went out of control and crashed  due to a broken wing strut."
   },
   {
+    "Id": 134,
     "Date": "10/06/1927",
     "Time": "",
     "Location": "Thies, Mauritania",
@@ -2814,6 +2948,7 @@
     "Summary": "The plane crashed while attempting to land at Dakar."
   },
   {
+    "Id": 135,
     "Date": "10/30/1927",
     "Time": "",
     "Location": "New Brunswick, New Jersey",
@@ -2835,6 +2970,7 @@
     "Summary": "Went into a tailspin and crashed into a corn field about 10 km from the airport."
   },
   {
+    "Id": 136,
     "Date": "11/08/1927",
     "Time": "",
     "Location": "Strasburg, France",
@@ -2856,6 +2992,7 @@
     "Summary": "The mail plane crashed shortly after taking off."
   },
   {
+    "Id": 137,
     "Date": "11/16/1927",
     "Time": "",
     "Location": "Over the Gulf of Finland",
@@ -2877,6 +3014,7 @@
     "Summary": "Crashed in the gulf of Finland and never found."
   },
   {
+    "Id": 138,
     "Date": "11/29/1927",
     "Time": "",
     "Location": "Corunna, Indiana",
@@ -2898,6 +3036,7 @@
     "Summary": "The postal plane crashed at night in poor weather."
   },
   {
+    "Id": 139,
     "Date": "12/28/1927",
     "Time": "",
     "Location": "Almeria, Spain",
@@ -2919,6 +3058,7 @@
     "Summary": "A fire erupted aboard the mail plane while en route and crashed."
   },
   {
+    "Id": 140,
     "Date": "12/31/1927",
     "Time": "",
     "Location": "Near Marseille,France",
@@ -2940,6 +3080,7 @@
     "Summary": "Suffered structural failure at an altitude of 1,000 ft."
   },
   {
+    "Id": 141,
     "Date": "01/08/1928",
     "Time": "",
     "Location": "Near Canajoharie, New York",
@@ -2961,6 +3102,7 @@
     "Summary": "Became lost in dense fog and flew into trees in the Mohawk Valley while proceeding to Buffalo.."
   },
   {
+    "Id": 142,
     "Date": "01/16/1928",
     "Time": "",
     "Location": "Solis, Uruguay",
@@ -2982,6 +3124,7 @@
     "Summary": "The wing on the mail plane detached from the aircraft and crashed into the sea."
   },
   {
+    "Id": 143,
     "Date": "01/22/1928",
     "Time": "",
     "Location": "L'Hospitalet, Ariège",
@@ -3003,6 +3146,7 @@
     "Summary": "Crashed after experiencing mechanical difficulties."
   },
   {
+    "Id": 144,
     "Date": "01/22/1928",
     "Time": "",
     "Location": "Tarragona, Spain",
@@ -3024,6 +3168,7 @@
     "Summary": "Crashed in unknown circumstances."
   },
   {
+    "Id": 145,
     "Date": "01/27/1928",
     "Time": "",
     "Location": "Almeria, Spain",
@@ -3045,6 +3190,7 @@
     "Summary": "After experiencing turbulence the pilot's seat belt broke and ejecting the pilot."
   },
   {
+    "Id": 146,
     "Date": "02/26/1928",
     "Time": "",
     "Location": "Marquette, Nebraska",
@@ -3066,6 +3212,7 @@
     "Summary": "The air mail plane crashed into a grove of cottonwood trees and burned. Businessman F.H. Craig was killed and pilot Frank Yegar injured. The pilot descended in altitude due to air pockets.The plane then ran into an air pocket that brought the plane down into the grove of trees."
   },
   {
+    "Id": 147,
     "Date": "03/11/1928",
     "Time": "",
     "Location": "Off Cape Griz Nez, France",
@@ -3087,6 +3234,7 @@
     "Summary": "Crashed into the sea while delivering mail in poor weather."
   },
   {
+    "Id": 148,
     "Date": "04/17/1928",
     "Time": "",
     "Location": "Federal, Wyoming",
@@ -3108,6 +3256,7 @@
     "Summary": "Spatial disorientation after entering a snowstorm."
   },
   {
+    "Id": 149,
     "Date": "04/19/1928",
     "Time": "",
     "Location": "Minuesa, Spain",
@@ -3129,6 +3278,7 @@
     "Summary": "Crashed into a field after getting lost in fog."
   },
   {
+    "Id": 150,
     "Date": "05/07/1928",
     "Time": "",
     "Location": "Florianopolis, Brazil Florianopolis, Brazil Florianopolis, Brazil",
@@ -3150,6 +3300,7 @@
     "Summary": "An in flight fire caused he pilot to lose control and crash in a field after which a fire erupted."
   },
   {
+    "Id": 151,
     "Date": "05/12/1928",
     "Time": "",
     "Location": "Dearborn, Minnesota",
@@ -3171,6 +3322,7 @@
     "Summary": "The cargo plane crashed on it’s inaugural flight. The pilot tried to become airborne without sufficient speed."
   },
   {
+    "Id": 152,
     "Date": "05/26/1928",
     "Time": "",
     "Location": "Radevormwald, Germany",
@@ -3192,6 +3344,7 @@
     "Summary": "After taking off and encountering fog, the pilot decided to  to make a precautionary landing in a field but t hit a cow, crashed and burned. Pilot error."
   },
   {
+    "Id": 153,
     "Date": "06/14/1928",
     "Time": "",
     "Location": "Frankfurt, Germany",
@@ -3213,6 +3366,7 @@
     "Summary": "The \"Viper\" crashed for unknown reasons."
   },
   {
+    "Id": 154,
     "Date": "06/22/1928",
     "Time": "",
     "Location": "Lebo, Kansas",
@@ -3234,6 +3388,7 @@
     "Summary": "The mail plane flew into tornado like winds and crashed in a field."
   },
   {
+    "Id": 155,
     "Date": "07/10/1928",
     "Time": "",
     "Location": "Over the Gulf of Finland",
@@ -3255,6 +3410,7 @@
     "Summary": "Crashed under unknown circumstances"
   },
   {
+    "Id": 156,
     "Date": "07/13/1928",
     "Time": "",
     "Location": "Purley, England",
@@ -3276,6 +3432,7 @@
     "Summary": "After the aircraft had climbed to 800 feet it disappeared from view of the airport in a south-west direction. The aircraft crashed into a market garden near Leigh Cottage on Woodcote Road, it was seen by residents flying low over the roof tops with the engine evidently in difficulties. The aircraft crashed into a potato field, the pilot in an open cockpit clambered clear and helped one of the passengers from the enclosed cabin free. The aircraft burst into flames and it was not possible to rescue the other passengers."
   },
   {
+    "Id": 157,
     "Date": "07/24/1928",
     "Time": "14:48",
     "Location": "Waalhaven, Netherlands",
@@ -3297,6 +3454,7 @@
     "Summary": "The plane became airborne in a stalled condition, hit a shipsmast and crashed into the Waalhaven."
   },
   {
+    "Id": 158,
     "Date": "08/25/1928",
     "Time": "11:00",
     "Location": "Near Port Townsend, BC, Canada",
@@ -3318,6 +3476,7 @@
     "Summary": "Crashed into Puget Sound in dense fog 12 miles off Port Townsend.  Considered the first Canadian air disaster."
   },
   {
+    "Id": 159,
     "Date": "09/02/1928",
     "Time": "91:5",
     "Location": "Toul, France",
@@ -3339,6 +3498,7 @@
     "Summary": "After taking off the engine failed, the plane stalled and crashed."
   },
   {
+    "Id": 160,
     "Date": "09/04/1928",
     "Time": "",
     "Location": "Adelaide Hills, Australia",
@@ -3360,6 +3520,7 @@
     "Summary": "Following the conclusion of an aerial tour carrying Sir John Salmond, the aircraft departed Adelaide piloted by C. W. A. Scott with an engineer as passenger. Control was lost in the cloud during an attempt to cross the Adelaide Hills; the aircraft encounted bad weather, crashed and caught fire."
   },
   {
+    "Id": 161,
     "Date": "09/04/1928",
     "Time": "11:30",
     "Location": "Pocatello, Idaho",
@@ -3381,6 +3542,7 @@
     "Summary": "While flying low and circling six times for a landing, the mail plane went into a nose dive when the pilot headed into the wind and crashed to the ground, rolling over several times."
   },
   {
+    "Id": 162,
     "Date": "09/06/1928",
     "Time": "",
     "Location": "Heroldbach, Germany",
@@ -3402,6 +3564,7 @@
     "Summary": "Crashed due to engine failure."
   },
   {
+    "Id": 163,
     "Date": "10/04/1928",
     "Time": "",
     "Location": "Gerona, Spain",
@@ -3423,6 +3586,7 @@
     "Summary": "Encountered fog and crashed into a mountain slope near the monastery of Sant Pere de Rodes, south of Llancà,"
   },
   {
+    "Id": 164,
     "Date": "10/18/1928",
     "Time": "",
     "Location": "Polk, Pennsylvania",
@@ -3444,6 +3608,7 @@
     "Summary": "The mail plane crashed into a hill and burned during the night during poor weather conditons."
   },
   {
+    "Id": 165,
     "Date": "10/31/1928",
     "Time": "",
     "Location": "Valence, France",
@@ -3465,6 +3630,7 @@
     "Summary": "The pilot attempted an emergency landing in a muddy field and crashed."
   },
   {
+    "Id": 166,
     "Date": "11/15/1928",
     "Time": "",
     "Location": "Off Gibraltar",
@@ -3486,6 +3652,7 @@
     "Summary": "The sea plane stuck a lightning mast and crashed into houses. Pilot error."
   },
   {
+    "Id": 167,
     "Date": "11/24/1928",
     "Time": "",
     "Location": "Edgerton, Ohio",
@@ -3507,6 +3674,7 @@
     "Summary": "The mail plane crashed in a heavy snow storm."
   },
   {
+    "Id": 168,
     "Date": "11/25/1928",
     "Time": "",
     "Location": "Edgerton, Ohio",
@@ -3528,6 +3696,7 @@
     "Summary": "The mail plane crashed in a heavy snow storm"
   },
   {
+    "Id": 169,
     "Date": "11/25/1928",
     "Time": "",
     "Location": "Bristolville, Ohio",
@@ -3549,6 +3718,7 @@
     "Summary": "The mail plane crashed in a snow storm."
   },
   {
+    "Id": 170,
     "Date": "12/01/1928",
     "Time": "10:00",
     "Location": "Spur, Texas",
@@ -3570,6 +3740,7 @@
     "Summary": "The aircraft crashed and burned while en route. Flames were seen aboard the plane before it crashed. The plane was on a delivery flight."
   },
   {
+    "Id": 171,
     "Date": "12/03/1928",
     "Time": "08:00",
     "Location": "Near Rio de Janeiro,Brazil",
@@ -3591,6 +3762,7 @@
     "Summary": "The seaplane took off form the bay and narrowly avoided a collision with another plane and in the process veered sharply and so abruptly that one of the wings was strained beyond its elastic limits. The pilot then lost control of the aircraft and it fell, tail spinning 300 feet into the water where one of the engines exploded on impact. It sunk immediately."
   },
   {
+    "Id": 172,
     "Date": "12/10/1928",
     "Time": "10:45",
     "Location": "Spokan, Washington",
@@ -3612,6 +3784,7 @@
     "Summary": "The aircraft crashed while attempting to land in fog."
   },
   {
+    "Id": 173,
     "Date": "12/11/1928",
     "Time": "",
     "Location": "Letzlingen, Germany",
@@ -3633,6 +3806,7 @@
     "Summary": "After a fuel line broke in flight, the pilot was forced to make an emergency landing in an open field. On landing, the aircraft crashed, overturned and came to rest in flames."
   },
   {
+    "Id": 174,
     "Date": "12/20/1928",
     "Time": "",
     "Location": "Huron, Ohio",
@@ -3654,6 +3828,7 @@
     "Summary": "The mail plane crashed into an apple tree during a snow storm after the pilot experienced spatial disorientation."
   },
   {
+    "Id": 175,
     "Date": "12/23/1928",
     "Time": "",
     "Location": "Chattanooga, Tennessee",
@@ -3675,6 +3850,7 @@
     "Summary": "Crashed onto a roof and garage on takeoff and burst into flames. The motor may have not been warmed- up properly."
   },
   {
+    "Id": 176,
     "Date": "12/31/1928",
     "Time": "",
     "Location": "Reims, France",
@@ -3696,6 +3872,7 @@
     "Summary": "Crashed into high ground in fog."
   },
   {
+    "Id": 177,
     "Date": "01/05/1929",
     "Time": "",
     "Location": "Stafford Springs, Connecticut",
@@ -3717,6 +3894,7 @@
     "Summary": "Struck a mountain slope  in poor weather."
   },
   {
+    "Id": 178,
     "Date": "01/18/1929",
     "Time": "",
     "Location": "Cove, Oregon",
@@ -3738,6 +3916,7 @@
     "Summary": "While attempting to make an emergency landing on the Minam river the mail plane hit a bolder killing the pilot."
   },
   {
+    "Id": 179,
     "Date": "01/25/1929",
     "Time": "",
     "Location": "Near Corfu, Greece",
@@ -3759,6 +3938,7 @@
     "Summary": "The passenger plane diverted off Kerkira in the Ionian Sea due to poor weather conditions and thunderstoms and sank in rough seas."
   },
   {
+    "Id": 180,
     "Date": "01/31/1929",
     "Time": "",
     "Location": "Off Morocco",
@@ -3780,6 +3960,7 @@
     "Summary": "While cruising along the coast, the mail plane crashed into the Atlantic Ocean for unknown reasons."
   },
   {
+    "Id": 181,
     "Date": "01/31/1929",
     "Time": "",
     "Location": "Morgantown, West Virginia",
@@ -3801,6 +3982,7 @@
     "Summary": "While attempting to land, the aircraft overran the runway and hit the perimeter fence."
   },
   {
+    "Id": 182,
     "Date": "03/17/1929",
     "Time": "17:00",
     "Location": "Newark, New Jersey",
@@ -3822,6 +4004,7 @@
     "Summary": "The plane was making the last of a number of sightseeing flights when two of it's three engines failed. The plane stalled and went out of control at an altitude of 200 ft. and crashed into a railroad freight car. Engine failure followed by a stall during an emergency landing attempt."
   },
   {
+    "Id": 183,
     "Date": "03/30/1929",
     "Time": "09:18",
     "Location": "Near Beaumont, California",
@@ -3843,6 +4026,7 @@
     "Summary": "The aircraft crashed into a high mountain ridge, exploding on impact. Investigators speculated that upon encountering fog and winds in the treacherous mountain pass, the pilot may have turned the airliner around and was heading back to the airport when the crash occurred."
   },
   {
+    "Id": 184,
     "Date": "04/21/1929",
     "Time": "11:45",
     "Location": "San Diego, California",
@@ -3864,6 +4048,7 @@
     "Summary": "A midair collision occurred  with a US Air Force Boeing PW-9D at 2,000 ft.  Five killed on the Tri-motor, one on the Boeing. Army pilot Lieutenant Howard Keefer, while flying above the airliner, was stunting and performed a steep banking turn downward, in an attempt to pass in front of the airliner. Instead, he misjudged the speed of the Maddux aircraft and his diving plane struck the cockpit of the Ford Tri-motor.  He was found criminally negligent."
   },
   {
+    "Id": 185,
     "Date": "05/09/1929",
     "Time": "",
     "Location": "Tampico, Mexico",
@@ -3885,6 +4070,7 @@
     "Summary": "An engine failed, the plane stalled and crashed."
   },
   {
+    "Id": 186,
     "Date": "05/18/1929",
     "Time": "",
     "Location": "Tököl,  Pest Hungary",
@@ -3906,6 +4092,7 @@
     "Summary": "A wing separated in flight and the plane crashed."
   },
   {
+    "Id": 187,
     "Date": "05/22/1929",
     "Time": "",
     "Location": "Algiers",
@@ -3927,6 +4114,7 @@
     "Summary": "The plane collided with a submerged object while taking off."
   },
   {
+    "Id": 188,
     "Date": "06/13/1929",
     "Time": "08:00",
     "Location": "Santiago de Cuba, Cuba",
@@ -3948,6 +4136,7 @@
     "Summary": "Crashed while taking off. The muddy field prevented the aircraft from gaining altitude. The plane hit telephone wires and crashed. The plane was named \"Christopher Columbus\"."
   },
   {
+    "Id": 189,
     "Date": "06/14/1929",
     "Time": "",
     "Location": "Barcelona, Spain",
@@ -3969,6 +4158,7 @@
     "Summary": "Took off, lost power and altitude and crashed into a telegraph tower."
   },
   {
+    "Id": 190,
     "Date": "06/17/1929",
     "Time": "11:30",
     "Location": "Off Dungeness, England",
@@ -3990,6 +4180,7 @@
     "Summary": "The plane was over the English Channel, approximately 3 miles offshore, when an engine failed. The pilot attempted to return to the airport but the plane ditched into the English Channel. Failure of a connecting rod on a cylinder due to fatigue.The plane was named \"City of Ottawa."
   },
   {
+    "Id": 191,
     "Date": "06/24/1929",
     "Time": "",
     "Location": "St. Paul, Minnesota",
@@ -4011,6 +4202,7 @@
     "Summary": "All three engines failed shortly after takeoff causing the plane to stall and crash near Indian Mounds park."
   },
   {
+    "Id": 192,
     "Date": "06/29/1929",
     "Time": "21:00",
     "Location": "Near Lindau, Bavaria, Germany",
@@ -4032,6 +4224,7 @@
     "Summary": "The seaplane crashed into lake Constance while attempting to landing. The landing was hard and the plane broke in two and sank."
   },
   {
+    "Id": 193,
     "Date": "06/29/1929",
     "Time": "",
     "Location": "Columbus, Ohio",
@@ -4053,6 +4246,7 @@
     "Summary": "The mail plane crashed into an antenna mast in fog and low visibility and burned."
   },
   {
+    "Id": 194,
     "Date": "08/11/1929",
     "Time": "",
     "Location": "Clovis, New Mexico",
@@ -4074,6 +4268,7 @@
     "Summary": "The just manufactured aircraft was on its way to be delivered to its new owner with  four employees of Lockheed,  two pilots and two engineers when it crashed under unknown circumstances."
   },
   {
+    "Id": 195,
     "Date": "08/24/1929",
     "Time": "",
     "Location": "Sochi, Russia",
@@ -4095,6 +4290,7 @@
     "Summary": "Crashed under unknown circumstances."
   },
   {
+    "Id": 196,
     "Date": "08/24/1929",
     "Time": "",
     "Location": "Elm, Germany",
@@ -4116,6 +4312,7 @@
     "Summary": "The aorcraft hit a hill in fog and poor visibility."
   },
   {
+    "Id": 197,
     "Date": "09/02/1929",
     "Time": "",
     "Location": "Needles, California",
@@ -4137,6 +4334,7 @@
     "Summary": "The plane crashed after going into a tail spin in a thunderstorm. The mechanic was able to parachute to safety."
   },
   {
+    "Id": 198,
     "Date": "09/03/1929",
     "Time": "11:01",
     "Location": "Mt. Taylor, near Grants, New Mexico",
@@ -4158,6 +4356,7 @@
     "Summary": "Shortly after departing the aircraft crashed into a Mt Taylor after encountering a thunderstorm and turbulence. The plane was named \"The City of San Francisco."
   },
   {
+    "Id": 199,
     "Date": "09/06/1929",
     "Time": "",
     "Location": "Jask, Iran",
@@ -4179,6 +4378,7 @@
     "Summary": "At night, the aircraft crashed short of the runway in low visibility."
   },
   {
+    "Id": 200,
     "Date": "09/14/1929",
     "Time": "",
     "Location": "North Atlantic Ocean",
@@ -4200,6 +4400,7 @@
     "Summary": "Crashed at sea, 30 miles from Larache, Morocco for unknown reasons."
   },
   {
+    "Id": 201,
     "Date": "09/14/1929",
     "Time": "18:00",
     "Location": "Saint Catharines, Ontario",
@@ -4221,6 +4422,7 @@
     "Summary": "The aircraft went out of control and crashed for unknown reasons."
   },
   {
+    "Id": 202,
     "Date": "09/17/1929",
     "Time": "",
     "Location": "Mt Lamentation, Connecticut",
@@ -4242,6 +4444,7 @@
     "Summary": "The mail plane crashed into Mt. Lamentation in fog and burst into flames."
   },
   {
+    "Id": 203,
     "Date": "09/17/1929",
     "Time": "",
     "Location": "Off Larache, Morocco",
@@ -4263,6 +4466,7 @@
     "Summary": "Crashed into the Mediterranean for unknown reasons."
   },
   {
+    "Id": 204,
     "Date": "09/17/1929",
     "Time": "",
     "Location": "Jacumba, California",
@@ -4284,6 +4488,7 @@
     "Summary": "The mail plane crashed into a hillside in the desert while attempting to make an emergency landing during a storm."
   },
   {
+    "Id": 205,
     "Date": "10/26/1929",
     "Time": "18:00",
     "Location": "Off Spezia, Italy",
@@ -4305,6 +4510,7 @@
     "Summary": "The aircraft ditched in the ocean after encountering gale force winds. Sank while in tow. The plane was named \"City of Rome."
   },
   {
+    "Id": 206,
     "Date": "10/29/1929",
     "Time": "",
     "Location": "Mount Vernon, Ohio",
@@ -4326,6 +4532,7 @@
     "Summary": "The mail plane crashed into a grove of trees 8 miles southwest of Mount Vernon in foggy conditons."
   },
   {
+    "Id": 207,
     "Date": "10/31/1929",
     "Time": "",
     "Location": "Off Bremerton, Washington",
@@ -4347,6 +4554,7 @@
     "Summary": "The air taxi crashed into Puget Sound as it attempted to take off."
   },
   {
+    "Id": 208,
     "Date": "11/04/1929",
     "Time": "07:00",
     "Location": "Cerro del Carbon, Mexico",
@@ -4368,6 +4576,7 @@
     "Summary": "The mail plane crashed in dense fog."
   },
   {
+    "Id": 209,
     "Date": "11/06/1929",
     "Time": "10:10",
     "Location": "Near Godstone, Surrey, England",
@@ -4389,6 +4598,7 @@
     "Summary": "After the plane's antenna wire struck the ground and was partially torn off, the pilot attempted to return to land but hit tree tops and crashed in rain and fog."
   },
   {
+    "Id": 210,
     "Date": "11/16/1929",
     "Time": "09:35",
     "Location": "Off Corsica, France",
@@ -4410,6 +4620,7 @@
     "Summary": "While flying along the Corsican coast, the aircraft crashed into the Mediterranean in fog. No trace of the plane was ever found."
   },
   {
+    "Id": 211,
     "Date": "11/20/1929",
     "Time": "",
     "Location": "Terranova Pausania, East Sardinia",
@@ -4431,6 +4642,7 @@
     "Summary": "The plane crashed due to  an optical phenomenon caused by calm waters and an erroneous height assessment."
   },
   {
+    "Id": 212,
     "Date": "11/30/1929",
     "Time": "",
     "Location": "Vancouver, Washington",
@@ -4452,6 +4664,7 @@
     "Summary": "The mail plane crashed into a fog bound tower of the interstate bridge spanning the Columbia River."
   },
   {
+    "Id": 213,
     "Date": "12/02/1929",
     "Time": "",
     "Location": "Chagrin Falls, Ohio",
@@ -4473,6 +4686,7 @@
     "Summary": "The mail plane crashed en route during a storm."
   },
   {
+    "Id": 214,
     "Date": "12/19/1929",
     "Time": "",
     "Location": "Near Berlin, Germany",
@@ -4494,6 +4708,7 @@
     "Summary": "In fog, the pilot lost his bearing in fog and crashed 60 km from the airport."
   },
   {
+    "Id": 215,
     "Date": "12/30/1929",
     "Time": "17:00",
     "Location": "Amarillo, Texas",
@@ -4515,6 +4730,7 @@
     "Summary": "Crashed onto a golf course  while on approach during a demonstration flight."
   },
   {
+    "Id": 216,
     "Date": "01/10/1930",
     "Time": "",
     "Location": "Brawnson, Nebraska",
@@ -4536,6 +4752,7 @@
     "Summary": "The airmail plane crash landed and burst into flames on a farm in fog and snow while attempting to make an emergency landing."
   },
   {
+    "Id": 217,
     "Date": "01/13/1930",
     "Time": "",
     "Location": "Antananarivo, Madagascar",
@@ -4557,6 +4774,7 @@
     "Summary": "Crrashed moments after taking off from Port-Francqui."
   },
   {
+    "Id": 218,
     "Date": "01/19/1930",
     "Time": "18:23",
     "Location": "Oceanside, California",
@@ -4578,6 +4796,7 @@
     "Summary": "While en route to Los Angeles, the pilot, flying a low altitude due to poor weather conditions tried to turn back. While in a left turn his left wing struck a hill, crashed and burned. Adverse weather conditions. The plane flew into a sudden squall which cause the pilot to lose control."
   },
   {
+    "Id": 219,
     "Date": "01/25/1930",
     "Time": "",
     "Location": "Off Ceuta, Spain",
@@ -4599,6 +4818,7 @@
     "Summary": "Ran into thunderstorms and crashed into the sea."
   },
   {
+    "Id": 220,
     "Date": "01/27/1930",
     "Time": "17:30",
     "Location": "Kansas City, Missouri",
@@ -4620,6 +4840,7 @@
     "Summary": "While preparing to land, the plane side slipped and dived into the ground from a height of 500 ft. and caught fire. As quickly as the bodies were removed, a hastily mustered crew of pilots and mechanics from Universal Airlines  and Central Airlines, began removing all evidence of the accident, savagely fighting off reporters and photographers as they worked."
   },
   {
+    "Id": 221,
     "Date": "02/03/1930",
     "Time": "",
     "Location": "Hartford, Connecticut",
@@ -4641,6 +4862,7 @@
     "Summary": "While attempting to land the plane struck a building and fell into the Connecticut river."
   },
   {
+    "Id": 222,
     "Date": "02/10/1930",
     "Time": "",
     "Location": "Marden, England",
@@ -4662,6 +4884,7 @@
     "Summary": "While attempting to land in snow, the plane rose up, stalled and crashed. Fatigue of the upper front strut of the right tail which failed in flight, causing the spar to fail as well."
   },
   {
+    "Id": 223,
     "Date": "04/18/1930",
     "Time": "17:00",
     "Location": "Jersey City, New Jersey",
@@ -4683,6 +4906,7 @@
     "Summary": "Crashed into power lines 150 feet above the ground in fog."
   },
   {
+    "Id": 224,
     "Date": "05/10/1930",
     "Time": "",
     "Location": "Buenos Aires, Argentina",
@@ -4704,6 +4928,7 @@
     "Summary": "While flying in foggy conditions at night, the captain lowered his altitude, hit a wave and fiipped over."
   },
   {
+    "Id": 225,
     "Date": "06/05/1930",
     "Time": "",
     "Location": "Boston, Massachusetts",
@@ -4725,6 +4950,7 @@
     "Summary": "Crashed into Boston Harbor after losing the right  engine on takeoff."
   },
   {
+    "Id": 226,
     "Date": "07/07/1930",
     "Time": "",
     "Location": "Bornholm, Denmark",
@@ -4746,6 +4972,7 @@
     "Summary": "The flying boat landed in a storm in the open ocean due to engine failure. After three hours, the plane was  capsized by a large wave while under tow."
   },
   {
+    "Id": 227,
     "Date": "07/10/1930",
     "Time": "",
     "Location": "Arkansas Pass, Texas",
@@ -4767,6 +4994,7 @@
     "Summary": "The aircraft exploded in the air at an altitude of 4,000 feet shortly after taking off. The plane was flying in an area of fog and thunderstorms."
   },
   {
+    "Id": 228,
     "Date": "07/21/1930",
     "Time": "15:00",
     "Location": "Near Meopham, Kent, England",
@@ -4788,6 +5016,7 @@
     "Summary": "The plane crashed about 10 miles from it's destination. Possible buffeting or irregular ocillation of the horizontal stabilizer leading to separation of the left stabilizer."
   },
   {
+    "Id": 229,
     "Date": "08/22/1930",
     "Time": "15:45",
     "Location": "Iglau, Czechoslovakia",
@@ -4809,6 +5038,7 @@
     "Summary": "Crashed when the pilot made a sharp turn to avoid a chimney and lost control of the aircraft."
   },
   {
+    "Id": 230,
     "Date": "09/11/1930",
     "Time": "",
     "Location": "Croydon, England",
@@ -4830,6 +5060,7 @@
     "Summary": "The plane caught on file shortly after taking off from Croydon."
   },
   {
+    "Id": 231,
     "Date": "09/25/1930",
     "Time": "",
     "Location": "Edmonton, Alberta, Canada",
@@ -4851,6 +5082,7 @@
     "Summary": "The air mail plane crashed in fog  while attempting to land in fog."
   },
   {
+    "Id": 232,
     "Date": "10/05/1930",
     "Time": "02:05",
     "Location": "Near Beauvais, France",
@@ -4872,6 +5104,7 @@
     "Summary": "The airship was on its inaugural flight from Cardington, England to Karachi, (Pakistan). During a storm on the first night, it suddenly nosedived, leveled briefly, then dived again crashing and burning. Preparations had been rushed for political reasons and there had been no full-speed test flight. In the wind and rain, the outer cover split open at the front so that the two forward gasbags ruptured simultaneously. Dropping ballast raised the nose, but only because there was also dynamic lift, which was promptly lost as speed was reduced, presumably to save the remaining gasbags."
   },
   {
+    "Id": 233,
     "Date": "10/06/1930",
     "Time": "09:45",
     "Location": "Dresden, Germany",
@@ -4893,6 +5126,7 @@
     "Summary": "Crashed into hill while attempting to land after running into a strong gust of wind.."
   },
   {
+    "Id": 234,
     "Date": "10/12/1930",
     "Time": "",
     "Location": "La Rache, Morocco",
@@ -4914,6 +5148,7 @@
     "Summary": "The french postal plane crashed into mountains."
   },
   {
+    "Id": 235,
     "Date": "10/13/1930",
     "Time": "",
     "Location": "Perth, Australia",
@@ -4935,6 +5170,7 @@
     "Summary": "Fflying over the Darling Range, aircraft went out of control and dove into a hilly terrain,"
   },
   {
+    "Id": 236,
     "Date": "10/28/1930",
     "Time": "",
     "Location": "Prince Rupert, BC, Canada",
@@ -4956,6 +5192,7 @@
     "Summary": "Crashed while taking off."
   },
   {
+    "Id": 237,
     "Date": "10/30/1930",
     "Time": "",
     "Location": "Near Neufchatel, France",
@@ -4977,6 +5214,7 @@
     "Summary": "Crashed into high ground in fog after losing an engine. The plane was named \"City of Washington."
   },
   {
+    "Id": 238,
     "Date": "10/30/1930",
     "Time": "",
     "Location": "Brookston, Indiana",
@@ -4998,6 +5236,7 @@
     "Summary": "After developing engine trouble the pilot tried to parachute out of the plane but the parachute got caught on the plane and the pilot was dragged to his death."
   },
   {
+    "Id": 239,
     "Date": "11/07/1930",
     "Time": "",
     "Location": "Off of Santos, Brazil",
@@ -5019,6 +5258,7 @@
     "Summary": "Crashed into the sea."
   },
   {
+    "Id": 240,
     "Date": "11/18/1930",
     "Time": "20:0",
     "Location": "Techachapi Mountains, California",
@@ -5040,6 +5280,7 @@
     "Summary": "Crashed into a mountainside at an altitude of 4,500  feet during a snowstorm."
   },
   {
+    "Id": 241,
     "Date": "12/09/1930",
     "Time": "",
     "Location": "Shanghai, China",
@@ -5061,6 +5302,7 @@
     "Summary": "The lower right wing of the aircraft hit the mast of  a river boat and the plane flipped over on its back and  crashed onto a river bank. The aircraft was named \"Shanghai\"."
   },
   {
+    "Id": 242,
     "Date": "01/08/1931",
     "Time": "22:40",
     "Location": "Melle, Belgium",
@@ -5082,6 +5324,7 @@
     "Summary": "After deciding to return to his base because of fog, the pilot of the mail plane  lowered his altitude and struck the ground."
   },
   {
+    "Id": 243,
     "Date": "01/22/1931",
     "Time": "",
     "Location": "Bluff Mountain, Washington",
@@ -5103,6 +5346,7 @@
     "Summary": "The mail plane flew into Bluff Mountain in dense fog."
   },
   {
+    "Id": 244,
     "Date": "02/08/1931",
     "Time": "",
     "Location": "Wairoa, New Zealand",
@@ -5124,6 +5368,7 @@
     "Summary": "While droping a mail bag the plane stalled and crashed."
   },
   {
+    "Id": 245,
     "Date": "02/20/1931",
     "Time": "",
     "Location": "Bagot, Manitoba, Canada",
@@ -5145,6 +5390,7 @@
     "Summary": "The plane carrying mail, crashed into a field, turned over and burst into flames. There was heavy fog in the area of the accident."
   },
   {
+    "Id": 246,
     "Date": "02/24/1931",
     "Time": "",
     "Location": "Off Spain",
@@ -5166,6 +5412,7 @@
     "Summary": "Crashed due to fuel exhaustion after encountering strong headwinds and getting lost."
   },
   {
+    "Id": 247,
     "Date": "03/21/1931",
     "Time": "13:00",
     "Location": "New South Wales, Australia",
@@ -5187,6 +5434,7 @@
     "Summary": "Crashed in the Snowy Mountains in poor weather conditions. Wreckage found 10/26/1958."
   },
   {
+    "Id": 248,
     "Date": "03/31/1931",
     "Time": "10:45",
     "Location": "Bazaar, Kansas",
@@ -5208,6 +5456,7 @@
     "Summary": "Shortly after taking off from Kansas City, one of the aircraft's wing's separated in flight after penetrating a thunderstorm and experiencing strong turbulence and icing. The plane crashed into a wheat field. Wing-aileron flutter, brought about by moisture leaking into the wing's interior, weakening the glue that bonded the wooden spars. Notre Dame football coach, Knute Rockne, 43, killed."
   },
   {
+    "Id": 249,
     "Date": "04/14/1931",
     "Time": "",
     "Location": "Near Letschen, Germany",
@@ -5229,6 +5478,7 @@
     "Summary": "Fuselage failure. Four were seriously injured and both the pilot and radio operator were killed."
   },
   {
+    "Id": 250,
     "Date": "05/05/1931",
     "Time": "23:30",
     "Location": "Burbank, California",
@@ -5250,6 +5500,7 @@
     "Summary": "The mail plane crashed into Las Tunas Canyon while attempting to land at  Burbank Airport in dense fog."
   },
   {
+    "Id": 251,
     "Date": "05/22/1931",
     "Time": "",
     "Location": "Wampit, Australia",
@@ -5271,6 +5522,7 @@
     "Summary": "Hit trees in fog and cashed into the jungle."
   },
   {
+    "Id": 252,
     "Date": "05/24/1931",
     "Time": "22:30",
     "Location": "Bellefonte, Pennsylvania",
@@ -5292,6 +5544,7 @@
     "Summary": "Crashed into a mountain and burned in poor visibility and icing conditions."
   },
   {
+    "Id": 253,
     "Date": "06/07/1931",
     "Time": "09:00",
     "Location": "Near Sandoway, Burma",
@@ -5313,6 +5566,7 @@
     "Summary": "Crashed into a trees and fell into a river 50 km south of Sandoway after experiencing engine trouble while attempting to land at Sandoway in poor visibility and monsoon conditions."
   },
   {
+    "Id": 254,
     "Date": "06/11/1931",
     "Time": "",
     "Location": "Walbridge, Ohio",
@@ -5334,6 +5588,7 @@
     "Summary": "A wing buckled as the plane was attempting to land and the plane crashed."
   },
   {
+    "Id": 255,
     "Date": "06/13/1931",
     "Time": "",
     "Location": "Saarbrucken, Germany",
@@ -5355,6 +5610,7 @@
     "Summary": "After circling in fog for half an hour, the plane rose to about 300 ft. and nose dived into the ground and burst into flames. Engine failure."
   },
   {
+    "Id": 256,
     "Date": "07/12/1931",
     "Time": "",
     "Location": "Chicago, Illinois",
@@ -5376,6 +5632,7 @@
     "Summary": "Engine quit while taking off. The plane crashed from a height of 700 feet. The pilot tried to return to the airport  by banking to the right but did not have sufficient altitude to recover."
   },
   {
+    "Id": 257,
     "Date": "07/14/1931",
     "Time": "",
     "Location": "Temora, Australia",
@@ -5397,6 +5654,7 @@
     "Summary": ""
   },
   {
+    "Id": 258,
     "Date": "07/21/1931",
     "Time": "",
     "Location": "Centralia, Illinois",
@@ -5418,6 +5676,7 @@
     "Summary": ""
   },
   {
+    "Id": 259,
     "Date": "07/24/1931",
     "Time": "",
     "Location": "Kurudjevo, Bulgaria",
@@ -5439,6 +5698,7 @@
     "Summary": "The aircraft caught fire in mid air and crashed."
   },
   {
+    "Id": 260,
     "Date": "08/09/1931",
     "Time": "08:40",
     "Location": "Cincinnati, Ohio",
@@ -5460,6 +5720,7 @@
     "Summary": "Crashed from a height of 500 feet on the banks of Little Miami River shortly after taking off.  Engine failure due to a broken hub on the right engine which led to the detachment of the motor from the aircraft."
   },
   {
+    "Id": 261,
     "Date": "09/14/1931",
     "Time": "20:00",
     "Location": "Chicago, Illinois",
@@ -5481,6 +5742,7 @@
     "Summary": "Crashed in a severe rainstorm while attempting to land."
   },
   {
+    "Id": 262,
     "Date": "09/15/1931",
     "Time": "",
     "Location": "Near Craiova, Oltenia, Romania",
@@ -5502,6 +5764,7 @@
     "Summary": "Crashed in low overcast and darkness while en route."
   },
   {
+    "Id": 263,
     "Date": "09/16/1931",
     "Time": "04:00",
     "Location": "Oakland, California",
@@ -5523,6 +5786,7 @@
     "Summary": "Crashed into San Francisco Bay shortly after taking off from Oakland airport."
   },
   {
+    "Id": 264,
     "Date": "10/06/1931",
     "Time": "",
     "Location": "Novia Scotia, Canada",
@@ -5544,6 +5808,7 @@
     "Summary": "Crashed into the sea while en route."
   },
   {
+    "Id": 265,
     "Date": "10/14/1931",
     "Time": "",
     "Location": "Brazil",
@@ -5565,6 +5830,7 @@
     "Summary": ""
   },
   {
+    "Id": 266,
     "Date": "11/05/1931",
     "Time": "06:48",
     "Location": "Camden, New Jersey",
@@ -5586,6 +5852,7 @@
     "Summary": "Crashed  onto a golf course and burst into flames after circling the airport twice to land."
   },
   {
+    "Id": 267,
     "Date": "11/13/1931",
     "Time": "",
     "Location": "Sir Lowry's pass, South Africa",
@@ -5607,6 +5874,7 @@
     "Summary": "Flew into a thunderstorm over mountains, lost a wing and crashed."
   },
   {
+    "Id": 268,
     "Date": "11/23/1931",
     "Time": "",
     "Location": "Salt Lake City, Utah",
@@ -5628,6 +5896,7 @@
     "Summary": "The mail plane crashed 8 miles west of Salt Lake airport. It is believed the plane overturned while attempting to land in the dark and in a snowstorm."
   },
   {
+    "Id": 269,
     "Date": "11/24/1931",
     "Time": "",
     "Location": "Near Tsinan, China",
@@ -5649,6 +5918,7 @@
     "Summary": "Crashed into Chingshan mountain range 10 miles south of Tsinan in fog."
   },
   {
+    "Id": 270,
     "Date": "11/26/1931",
     "Time": "22:30",
     "Location": "Pasco, Washington",
@@ -5670,6 +5940,7 @@
     "Summary": "Crashed in fog while attempting to land."
   },
   {
+    "Id": 271,
     "Date": "12/05/1931",
     "Time": "",
     "Location": "Kewanee, Illinois",
@@ -5691,6 +5962,7 @@
     "Summary": "Crashed attempting to land at an alternate airfield in a sleet storm. The plane struck the roof of a barn adjacent to the airfield and was destroyed. Icing."
   },
   {
+    "Id": 272,
     "Date": "12/06/1931",
     "Time": "05:45",
     "Location": "Bangkok, Thailand",
@@ -5712,6 +5984,7 @@
     "Summary": "Take off  was made with the  emergency hatch in cockpit roof open. This spoiled the lift and aircraft didn't become airborne.  At the end of the field, the aircraft crashed into a dam."
   },
   {
+    "Id": 273,
     "Date": "12/09/1931",
     "Time": "",
     "Location": "Off Algiers",
@@ -5733,6 +6006,7 @@
     "Summary": "The crew crashed into the sea after a hydraulic failure and fire."
   },
   {
+    "Id": 274,
     "Date": "12/31/1931",
     "Time": "",
     "Location": "Springfield, Ohio",
@@ -5754,6 +6028,7 @@
     "Summary": "Under orders from his supervisor, the pilot took off in extremely poor weather conditions. After encountering fog he attempted to turn back to the airport but a wing tip struck a knoll and the plane crashed."
   },
   {
+    "Id": 275,
     "Date": "01/21/1932",
     "Time": "",
     "Location": "Colvin Park, Ilinois",
@@ -5775,6 +6050,7 @@
     "Summary": "The pilot lost his directions in heavy fog. He decided to bail out and abandoned the aircraft. While doing so, he hit the horizontal stabilizer and was killed. The aircraft then crashed into a residential area,"
   },
   {
+    "Id": 276,
     "Date": "01/29/1932",
     "Time": "16:00",
     "Location": "Lebec, California",
@@ -5796,6 +6072,7 @@
     "Summary": "Crashed into a canyon, in mountains, during a blizzard. Wreckage found a week later."
   },
   {
+    "Id": 277,
     "Date": "02/01/1932",
     "Time": "",
     "Location": "Off Miami, Florida",
@@ -5817,6 +6094,7 @@
     "Summary": "Disappeared while en route on a 45 minute flight."
   },
   {
+    "Id": 278,
     "Date": "02/02/1932",
     "Time": "",
     "Location": "Rio Vista, California",
@@ -5838,6 +6116,7 @@
     "Summary": "Struck an irrigation ditch and caught fire during landing."
   },
   {
+    "Id": 279,
     "Date": "02/02/1932",
     "Time": "",
     "Location": "Marcellus, Michigan",
@@ -5859,6 +6138,7 @@
     "Summary": "The mail plane crashed in a snowstorm."
   },
   {
+    "Id": 280,
     "Date": "02/27/1932",
     "Time": "",
     "Location": "Off Setiba, Brazil",
@@ -5880,6 +6160,7 @@
     "Summary": "Crashed into the ocean after flying into a thunderstorm."
   },
   {
+    "Id": 281,
     "Date": "03/08/1932",
     "Time": "02:00",
     "Location": "Saint Louis, Illinois",
@@ -5901,6 +6182,7 @@
     "Summary": "Crashed into a skeleton of an old windmill, 500 yards from the edge of the field while practicing night landings."
   },
   {
+    "Id": 282,
     "Date": "03/19/1932",
     "Time": "19:30",
     "Location": "Calimesa, California",
@@ -5922,6 +6204,7 @@
     "Summary": "The crew reduced altitude in foggy conditions to maintain visual contact with the ground. Crashed into an apple orchard after striking power lines. One survivor died the next day."
   },
   {
+    "Id": 283,
     "Date": "03/21/1932",
     "Time": "",
     "Location": "Steubenville, Ohio",
@@ -5943,6 +6226,7 @@
     "Summary": "The mail plane pilot drowned when his parachute tangled in the fuselage and he was dragged into the Ohio River after his plane crashed."
   },
   {
+    "Id": 284,
     "Date": "03/29/1932",
     "Time": "",
     "Location": "Rutbah Wells, Iraq",
@@ -5964,6 +6248,7 @@
     "Summary": "Crashed into the ground during a sand storm."
   },
   {
+    "Id": 285,
     "Date": "03/31/1932",
     "Time": "",
     "Location": "Bedford, Ohio",
@@ -5985,6 +6270,7 @@
     "Summary": "Crashed in a storm."
   },
   {
+    "Id": 286,
     "Date": "04/21/1932",
     "Time": "",
     "Location": "Fort Wayne, Indiana",
@@ -6006,6 +6292,7 @@
     "Summary": "Crashed while in final approach."
   },
   {
+    "Id": 287,
     "Date": "05/16/1932",
     "Time": "",
     "Location": "Burbank, California",
@@ -6027,6 +6314,7 @@
     "Summary": "Crashed and burned  in fog while attempting to land at Burbank Airport."
   },
   {
+    "Id": 288,
     "Date": "05/30/1932",
     "Time": "12:00",
     "Location": "Portland, Oregon",
@@ -6048,6 +6336,7 @@
     "Summary": "Crashed in a river after the engine exploded."
   },
   {
+    "Id": 289,
     "Date": "07/16/1932",
     "Time": "08:00",
     "Location": "Mount El Plomo, near Vitacura, Chile",
@@ -6069,6 +6358,7 @@
     "Summary": "The aircraft crashed in a severe snowstorm in the Andes Mountains.  The wreckage was buried by ice and snow and wasn’t found until March 22, 1934."
   },
   {
+    "Id": 290,
     "Date": "08/12/1932",
     "Time": "",
     "Location": "Beyrouth, Lebanon",
@@ -6090,6 +6380,7 @@
     "Summary": "Crrashed and sunk while landing in Beyrough harbor."
   },
   {
+    "Id": 291,
     "Date": "08/31/1932",
     "Time": "00:10",
     "Location": "Tubergen, Germany",
@@ -6111,6 +6402,7 @@
     "Summary": "The crew radioed they had problems with engine 3. The crew lowered their altitude and attempted an emergency landing. In low visibility and at night they hit a chimney and crashed."
   },
   {
+    "Id": 292,
     "Date": "09/08/1932",
     "Time": "09:00",
     "Location": "Salt Flats, Texas",
@@ -6132,6 +6424,7 @@
     "Summary": "The mail plane struck a mountain and burned after encountering poor weather conditions."
   },
   {
+    "Id": 293,
     "Date": "09/17/1932",
     "Time": "06:00",
     "Location": "Selsdon Park, England",
@@ -6153,6 +6446,7 @@
     "Summary": "On approach to Croydon in fog and reduced visibility the plane crashed in a hotel parking lot."
   },
   {
+    "Id": 294,
     "Date": "09/18/1932",
     "Time": "",
     "Location": "Byron Bay, Australia",
@@ -6174,6 +6468,7 @@
     "Summary": "The left wing and rudder detached in strong winds and turbulence after the pilot made a sharp left turn."
   },
   {
+    "Id": 295,
     "Date": "10/12/1932",
     "Time": "",
     "Location": "Port Etienne, Mauritania",
@@ -6195,6 +6490,7 @@
     "Summary": "Crashed shortly afer taking off."
   },
   {
+    "Id": 296,
     "Date": "10/26/1932",
     "Time": "",
     "Location": "Villa Monte, Bolivia",
@@ -6216,6 +6512,7 @@
     "Summary": "Former American army flyer Donald Duke was killed when his plane carrying Bolivian army supplies crashed."
   },
   {
+    "Id": 297,
     "Date": "10/29/1932",
     "Time": "",
     "Location": "Ramsgate, England",
@@ -6237,6 +6534,7 @@
     "Summary": "The mail plane ditched into the English Channel after encountering 60 mile-an-hour gale force winds."
   },
   {
+    "Id": 298,
     "Date": "11/02/1932",
     "Time": "",
     "Location": "Echterpfuhl, Germany",
@@ -6258,6 +6556,7 @@
     "Summary": "Crashed into mountainous terrain in the Spessart mountains in fog, after a wing separated from the aircraft due to overstressing.."
   },
   {
+    "Id": 299,
     "Date": "11/25/1932",
     "Time": "",
     "Location": "Marianna, Arkansas",
@@ -6279,6 +6578,7 @@
     "Summary": "Became lost and circled  until the plane struck an oak tree and crashed onto a island in the bayou."
   },
   {
+    "Id": 300,
     "Date": "12/14/1932",
     "Time": "",
     "Location": "Amarillo, Texas",
@@ -6300,6 +6600,7 @@
     "Summary": "The mail plane crashed in a snowstorm. The pilot died two days later from his injuries."
   },
   {
+    "Id": 301,
     "Date": "12/14/1932",
     "Time": "",
     "Location": "Rocky Ridge, Colorado",
@@ -6321,6 +6622,7 @@
     "Summary": "Struck a mountain when the pilot reduced altitude to maintain contact with the ground."
   },
   {
+    "Id": 302,
     "Date": "12/26/1932",
     "Time": "",
     "Location": "Wau, Australia",
@@ -6342,6 +6644,7 @@
     "Summary": "The pilot lost control and crashed after attempting an aerobatic maneuver."
   },
   {
+    "Id": 303,
     "Date": "01/10/1933",
     "Time": "",
     "Location": "Algiers",
@@ -6363,6 +6666,7 @@
     "Summary": "On the second attempt at taking off, the float plane struck waves and overturned."
   },
   {
+    "Id": 304,
     "Date": "01/14/1933",
     "Time": "",
     "Location": "Newark, New Jersey",
@@ -6384,6 +6688,7 @@
     "Summary": "Went into a vertical bank and crashed and burned."
   },
   {
+    "Id": 305,
     "Date": "01/20/1933",
     "Time": "",
     "Location": "Marietta, Georgia",
@@ -6405,6 +6710,7 @@
     "Summary": "Crashed into a mountainside."
   },
   {
+    "Id": 306,
     "Date": "01/20/1933",
     "Time": "02:07",
     "Location": "Bourne, Texas",
@@ -6426,6 +6732,7 @@
     "Summary": "The pilot of the mail plane lost his bearings and crashed into the hillside in poor visibility."
   },
   {
+    "Id": 307,
     "Date": "01/24/1933",
     "Time": "",
     "Location": "Eugene, Oregon",
@@ -6447,6 +6754,7 @@
     "Summary": "The mail plane crashed while taking off."
   },
   {
+    "Id": 308,
     "Date": "03/11/1933",
     "Time": "",
     "Location": "Near Mendoza, Argentina",
@@ -6468,6 +6776,7 @@
     "Summary": "Crashed and burned."
   },
   {
+    "Id": 309,
     "Date": "03/25/1933",
     "Time": "20:07",
     "Location": "Hayward, California",
@@ -6489,6 +6798,7 @@
     "Summary": "The aircraft crashed into tops of two houses and smashed into a third, bursting into flames in heavy rain.  An unusual and unforeseen condition of the weather developed its intensity in the immediate locality of the accident.  The ceiling suddenly dropped as the plane approached its destination."
   },
   {
+    "Id": 310,
     "Date": "03/28/1933",
     "Time": "14:30",
     "Location": "Near Dixmude, Belgium",
@@ -6510,6 +6820,7 @@
     "Summary": "The airliner was crusing at about 4,000 feet when fire was observed coming out of its tail section. The pilot tried to make an emergency landing but the fuselage split in two causing the aircraft to crash and burn. Although never proven, this is thought to be the first airline disaster caused by an act of satotage. The fire was thought to have been started by a passenger, Dr. Voss,  in an attempt to commit suicide. The plane was named Cit y of Liverpool."
   },
   {
+    "Id": 311,
     "Date": "04/03/1933",
     "Time": "",
     "Location": "Hemkenrode, Germany",
@@ -6531,6 +6842,7 @@
     "Summary": "Crashed under unknown circumstances."
   },
   {
+    "Id": 312,
     "Date": "04/04/1933",
     "Time": "12:30",
     "Location": "Off Barnegat, New Jersey",
@@ -6552,6 +6864,7 @@
     "Summary": "While cruising at 1,600 feet off New Jersey, strong air currents droped the ship to 700 feet before leveling off.  Before it could regain a safe height, it plummeted into the Atlantic Ocean. Decision by the commander to fly into a storm despite the presence of lightning."
   },
   {
+    "Id": 313,
     "Date": "04/23/1933",
     "Time": "07:40",
     "Location": "Near Castrovillari, Calabria, Italy",
@@ -6573,6 +6886,7 @@
     "Summary": "Crashed into a mountain after encountering a mountain wave.."
   },
   {
+    "Id": 314,
     "Date": "04/29/1933",
     "Time": "",
     "Location": "Traunstein, Germany",
@@ -6594,6 +6908,7 @@
     "Summary": "Crashed on a test flight before delivery to Eurasia in China."
   },
   {
+    "Id": 315,
     "Date": "05/09/1933",
     "Time": "15:00",
     "Location": "Near Viladrau, Spain",
@@ -6615,6 +6930,7 @@
     "Summary": "Crashed after being forced down to the ground by strong downdrafts."
   },
   {
+    "Id": 316,
     "Date": "06/04/1933",
     "Time": "03:15",
     "Location": "Bowling Green, Virginia",
@@ -6636,6 +6952,7 @@
     "Summary": "The mail plane had engine faiure and crashed into a ravine."
   },
   {
+    "Id": 317,
     "Date": "06/11/1933",
     "Time": "17:00",
     "Location": "Glenview, Illinois",
@@ -6657,6 +6974,7 @@
     "Summary": "After attempting to land in lake Michigan the pilot encounter rough water and aborted the landing. While taking off the right wing separated from the plane due to the previous rough landing,"
   },
   {
+    "Id": 318,
     "Date": "07/18/1933",
     "Time": "15:40",
     "Location": "Aegean Sea",
@@ -6678,6 +6996,7 @@
     "Summary": "The float plane was forced to ditch in gale force winds. No trace of the plane or those onboard were ever found."
   },
   {
+    "Id": 319,
     "Date": "08/29/1933",
     "Time": "01:00",
     "Location": "Quay, New Mexico",
@@ -6699,6 +7018,7 @@
     "Summary": "Crashed into a mountain slope  during a storm while attempting to make an emergency landing."
   },
   {
+    "Id": 320,
     "Date": "09/12/1933",
     "Time": "",
     "Location": "Near Ljubljana, Yugoslavia",
@@ -6720,6 +7040,7 @@
     "Summary": "Crashed on the grounds of an insane asylum after losing an engine on takeoff."
   },
   {
+    "Id": 321,
     "Date": "10/10/1933",
     "Time": "21:00",
     "Location": "Chesterton, Indiana",
@@ -6741,6 +7062,7 @@
     "Summary": "While en route to Chicago, the aircraft was destroyed by an explosive device placed in the cargo hold, consisting of nitro-glycerin and attached to a timing device. Eyewitnesses on the ground reported hearing an explosion shortly after 9 p.m., and told of seeing the plane in flames at an altitude of about 1,000 feet. A second explosion followed after the plane crashed.This was the first proven case of sabotage in the history of commercial aviation."
   },
   {
+    "Id": 322,
     "Date": "10/31/1933",
     "Time": "11:20",
     "Location": "Etobon, France",
@@ -6762,6 +7084,7 @@
     "Summary": ""
   },
   {
+    "Id": 323,
     "Date": "11/09/1933",
     "Time": "22:35",
     "Location": "Portland, Oregon",
@@ -6783,6 +7106,7 @@
     "Summary": "Crashed in a thickly wooded area upon taking off after the pilot became lost in fog."
   },
   {
+    "Id": 324,
     "Date": "11/10/1933",
     "Time": "",
     "Location": "Moriarty, New Mexico",
@@ -6804,6 +7128,7 @@
     "Summary": "The pilot bailed out after the engine caught fire. He was not injured."
   },
   {
+    "Id": 325,
     "Date": "11/20/1933",
     "Time": "",
     "Location": "Near Tsinan, China",
@@ -6825,6 +7150,7 @@
     "Summary": "Crashed into the Chingshan mountain range in fog."
   },
   {
+    "Id": 326,
     "Date": "11/21/1933",
     "Time": "15:00",
     "Location": "Near Kharkov, Ukraine, USSR",
@@ -6846,6 +7172,7 @@
     "Summary": "Crashed due to structural failure during a test flight."
   },
   {
+    "Id": 327,
     "Date": "11/24/1933",
     "Time": "",
     "Location": "Wedron, Illinois",
@@ -6867,6 +7194,7 @@
     "Summary": "Crashed under unknown circumstances."
   },
   {
+    "Id": 328,
     "Date": "12/11/1933",
     "Time": "16:00",
     "Location": "Hamburg, Germany",
@@ -6888,6 +7216,7 @@
     "Summary": "Crashed after striking an obstacle while landing in poor visibility and snow."
   },
   {
+    "Id": 329,
     "Date": "12/14/1933",
     "Time": "",
     "Location": "Eshowe, South Africa",
@@ -6909,6 +7238,7 @@
     "Summary": "Crashed in poor weather conditions while enroute."
   },
   {
+    "Id": 330,
     "Date": "12/30/1933",
     "Time": "13:00",
     "Location": "Near Ruysselede, Belgium",
@@ -6930,6 +7260,7 @@
     "Summary": "Crashed  into a field in desnse fog after hitting a radio antenna tower which tore off a wing."
   },
   {
+    "Id": 331,
     "Date": "01/15/1934",
     "Time": "18:15",
     "Location": "Corbigny, France",
@@ -6951,6 +7282,7 @@
     "Summary": "The aircraft crashed while en route in a severe snowstorm.  Icing. The aircraft was named \"Emeraude."
   },
   {
+    "Id": 332,
     "Date": "01/20/1934",
     "Time": "",
     "Location": "Carombe, France",
@@ -6972,6 +7304,7 @@
     "Summary": ""
   },
   {
+    "Id": 333,
     "Date": "02/23/1934",
     "Time": "14:15",
     "Location": "Near Salt Lake City, Utah",
@@ -6993,6 +7326,7 @@
     "Summary": "Crashed on top of Parley's Canyon, 20 miles from Salt Lake City shortly after taking off for Cheyenne. Pilot error. The crew failed to gain sufficient altitude to clear rapidly rising terrain."
   },
   {
+    "Id": 334,
     "Date": "02/26/1934",
     "Time": "",
     "Location": "Rio de Oro, Morocco",
@@ -7014,6 +7348,7 @@
     "Summary": ""
   },
   {
+    "Id": 335,
     "Date": "03/06/1934",
     "Time": "",
     "Location": "Petersburg, Illinois",
@@ -7035,6 +7370,7 @@
     "Summary": "Crashed into a snow drift due to icing in a blizzard."
   },
   {
+    "Id": 336,
     "Date": "03/10/1934",
     "Time": "",
     "Location": "Pereira, Colombia",
@@ -7056,6 +7392,7 @@
     "Summary": "Scadta was a Pan Am subsidiary.  It was operating a domestic flight, which crashed in the Colombian jungle, which was called \"Green Hell.\" Five Goigira Indians, who were canoeing up the Uribe River, found pieces of clothing, and then dead bodies of five people from the crash, and the wreckage of the aircraft.  They also found a man who was alive, but dazed, exhausted, half crazy and unable to speak.  They carried him for seven days through the jungle to civilization.  He later recovered, and his name was Newton C. Marshall, General Manager of South American Gold & Platinum Company.  He was the only survivor."
   },
   {
+    "Id": 337,
     "Date": "03/22/1934",
     "Time": "",
     "Location": "Near Lima, Peru",
@@ -7077,6 +7414,7 @@
     "Summary": "Crashed on take off due to engine failure."
   },
   {
+    "Id": 338,
     "Date": "04/10/1934",
     "Time": "",
     "Location": "Ningpo Bay, China",
@@ -7098,6 +7436,7 @@
     "Summary": ""
   },
   {
+    "Id": 339,
     "Date": "05/09/1934",
     "Time": "",
     "Location": "English Channel",
@@ -7119,6 +7458,7 @@
     "Summary": "Crashed into the English Channel and sunk immedately in fog."
   },
   {
+    "Id": 340,
     "Date": "05/31/1934",
     "Time": "05:00",
     "Location": "Croydon, England",
@@ -7140,6 +7480,7 @@
     "Summary": "The cargo plane struck an aerial mast and crashed into houses while attempting to take off."
   },
   {
+    "Id": 341,
     "Date": "06/09/1934",
     "Time": "17:00",
     "Location": "Mongaup Mountain, New York",
@@ -7161,6 +7502,7 @@
     "Summary": "Crashed into Last Chance Hill in the Catskill Mountains at an altitude of 2,000 feet in fog and thunderstorms while en route. Pilot deviated from the prescribed course and flew over hazardous terrain."
   },
   {
+    "Id": 342,
     "Date": "06/11/1934",
     "Time": "11:00",
     "Location": "Junin, Argentina",
@@ -7182,6 +7524,7 @@
     "Summary": "Crashed into Mar Chiquita Lagoon during a heavy rainstorm. The aircraft was named \"San Pedro."
   },
   {
+    "Id": 343,
     "Date": "06/22/1934",
     "Time": "",
     "Location": "Chausseehausen, Germany",
@@ -7203,6 +7546,7 @@
     "Summary": "Weather related."
   },
   {
+    "Id": 344,
     "Date": "06/23/1934",
     "Time": "06:00",
     "Location": "Burbank, California",
@@ -7224,6 +7568,7 @@
     "Summary": "Crashed while en route to pick up passengers. The plane crashed near a fire station in heavy fog and burst into flames killing the pilot."
   },
   {
+    "Id": 345,
     "Date": "07/09/1934",
     "Time": "",
     "Location": "San Bernardino, California",
@@ -7245,6 +7590,7 @@
     "Summary": "Failed to gain altitude and struck a grove of trees while attempting to take off. The plane came to rest in a watermelon patch."
   },
   {
+    "Id": 346,
     "Date": "07/27/1934",
     "Time": "09:50",
     "Location": "Near Tuttlingen, Germany",
@@ -7266,6 +7612,7 @@
     "Summary": "The aircraft crashed during a violent storm near the Swiss - Germany border. The plane fell from a height of 3,000 feet, bursting into flames. Failure of the right wing caused by fractures in the structure which occurred because of  oscillations in the wing."
   },
   {
+    "Id": 347,
     "Date": "08/05/1934",
     "Time": "",
     "Location": "Bahia, Brazil",
@@ -7287,6 +7634,7 @@
     "Summary": "The crew lost control of the aircraft and crashed while taking off from Bahia while on a mail flight."
   },
   {
+    "Id": 348,
     "Date": "08/10/1934",
     "Time": "",
     "Location": "Ningbo, China",
@@ -7308,6 +7656,7 @@
     "Summary": ""
   },
   {
+    "Id": 349,
     "Date": "08/31/1934",
     "Time": "22:45",
     "Location": "Amazonia, Missouri",
@@ -7329,6 +7678,7 @@
     "Summary": "The plane crashed about 11 miles from St. Joseph in heavy fog. Pilot error in taking off in dangerous weather conditions and turning too close the the ground in a fog-bound area. Inaccurate weather conditions reported to the pilot."
   },
   {
+    "Id": 350,
     "Date": "10/02/1934",
     "Time": "10:50",
     "Location": "English Channel",
@@ -7350,6 +7700,7 @@
     "Summary": "While overflying The Channel, the pilot encountered poor weather conditions with light rain and fog. He decided to return but due to low visibility and while cruising VFR, he was unable to distinguish the water surface and eventually lost control of the aircraft that crashed into the sea some five km off Folkestone. The pilot\"s lack of skill and knowledge in matters of navigation ."
   },
   {
+    "Id": 351,
     "Date": "10/03/1934",
     "Time": "",
     "Location": "Near Winton, Australia",
@@ -7371,6 +7722,7 @@
     "Summary": "Crashed after in-flight loss of control, possibly stalled at low altitude in dusty low-visibility conditions."
   },
   {
+    "Id": 352,
     "Date": "10/19/1934",
     "Time": "",
     "Location": "Bass Strait, Australia",
@@ -7392,6 +7744,7 @@
     "Summary": "Crashed 10 miles off the coast under unknown circumstances"
   },
   {
+    "Id": 353,
     "Date": "11/02/1934",
     "Time": "",
     "Location": "Kiapit, Australia",
@@ -7413,6 +7766,7 @@
     "Summary": "On final approach to Kaiapit, the aircraft was too low and hit a house short of runway and caught fir. The aircraft was named \"Canberra."
   },
   {
+    "Id": 354,
     "Date": "11/15/1934",
     "Time": "",
     "Location": "Near Longreach, Australia",
@@ -7434,6 +7788,7 @@
     "Summary": "The aircraft suddenly went out of control and crashed to the ground on its delivery flight from England to Brisbane. Improper loading of parts resulting in an aft center of gravity."
   },
   {
+    "Id": 355,
     "Date": "11/15/1934",
     "Time": "23:42",
     "Location": "Amazonia, Montana",
@@ -7455,6 +7810,7 @@
     "Summary": "While flying at night in marginal weather conditions, the pilot flew too close to the ground  hit trees and crashed in flames in a wooded area.  The pilot committed an error in judgment in turning too close to the ground in a fog bound area."
   },
   {
+    "Id": 356,
     "Date": "12/07/1934",
     "Time": "",
     "Location": "Salchau, Germany",
@@ -7476,6 +7832,7 @@
     "Summary": "Crashed under unknown circumstances"
   },
   {
+    "Id": 357,
     "Date": "12/08/1934",
     "Time": "05:30",
     "Location": "Columbia, Missouri",
@@ -7497,6 +7854,7 @@
     "Summary": "The mail plane crashed to the ground from a low altitude. Icing."
   },
   {
+    "Id": 358,
     "Date": "12/10/1934",
     "Time": "07:30",
     "Location": "Palma Soriano, Cuba",
@@ -7518,6 +7876,7 @@
     "Summary": "Crashed into a mountain in poor weater condtions and low visiblity while en route."
   },
   {
+    "Id": 359,
     "Date": "12/20/1934",
     "Time": "03:33",
     "Location": "Rutbah Wells, Syria",
@@ -7539,6 +7898,7 @@
     "Summary": "While flying over the Iraqi Desert at night, the crew encountered poor weather conditions and decided to divert to Rutbah Wells. On approach, the aircraft impacted the ground and exploded.16 km from Rutbah Wells airfield. The aircraft was named \"Uiver\" (Dutch word for stork)."
   },
   {
+    "Id": 360,
     "Date": "12/22/1934",
     "Time": "02:52",
     "Location": "Sunbright, Tennessee",
@@ -7560,6 +7920,7 @@
     "Summary": "Crashed into Big Pilot mountain, 50 feet from the top of the summit, four miles from Sunbright, in poor visibility. The battery-generator system failed, thus causing an error in the ship's compass and probably affecting other essential navigation instruments."
   },
   {
+    "Id": 361,
     "Date": "",
     "Time": "",
     "Location": "",
@@ -7581,6 +7942,7 @@
     "Summary": ""
   },
   {
+    "Id": 362,
     "Date": "01/08/1935",
     "Time": "",
     "Location": "Near Karachi, Pakistan",
@@ -7602,6 +7964,7 @@
     "Summary": "Crashed into a column of soldiers during training. The crew survived with injuries but 15 soldiers were killed and 11 injured. Later the pilot was court-martialled and dismissed."
   },
   {
+    "Id": 363,
     "Date": "01/26/1935",
     "Time": "",
     "Location": "Pittsburgh, Pennsylvania",
@@ -7623,6 +7986,7 @@
     "Summary": "The mail plane crashed and burned soon after taking off in a blinding snowstorm."
   },
   {
+    "Id": 364,
     "Date": "01/31/1935",
     "Time": "19:00",
     "Location": "Stettin, Germany",
@@ -7644,6 +8008,7 @@
     "Summary": "Crashed full speed into a hill, 450 feet high in rain and fog. Icing."
   },
   {
+    "Id": 365,
     "Date": "03/07/1935",
     "Time": "",
     "Location": "Schievelbein, Germany",
@@ -7665,6 +8030,7 @@
     "Summary": "Fuselage failure forced an emergency landing in a field."
   },
   {
+    "Id": 366,
     "Date": "03/15/1935",
     "Time": "",
     "Location": "El Arish, Egypt",
@@ -7686,6 +8052,7 @@
     "Summary": "After flying over the airport into a strong headwind, in an attempt to land, one of the aircraft's two engines failed.  While attempting to return to the airport the pilot headed into the strong wind and lost airspeed until he stalled and crashed from a height  of 100 - 130 feet."
   },
   {
+    "Id": 367,
     "Date": "03/29/1935",
     "Time": "",
     "Location": "Off Samland, Germany",
@@ -7707,6 +8074,7 @@
     "Summary": "The crew,(3 student pilots and 2 instructors were performing a training flight over Baltic Sea when the  aircraft crashed into the sea for reasons unknown."
   },
   {
+    "Id": 368,
     "Date": "04/01/1935",
     "Time": "00:45",
     "Location": "Beauvais, France",
@@ -7728,6 +8096,7 @@
     "Summary": "Shortly after departure, the captain decided to return to Paris because of low visibility. The aircraft hit a tree and crashed in an open field. The chief pilot of Air France, Robert Bajac, 36, was killed. Blame was placed on the aircraft which was found to be unstable in flight."
   },
   {
+    "Id": 369,
     "Date": "04/06/1935",
     "Time": "15:20",
     "Location": "Brilon, Germany",
@@ -7749,6 +8118,7 @@
     "Summary": "Crashed after the pilot tried to maintain visual contact with the ground in heavy fog and snow. The plane was named \"Leeuwerik.\" The pilot was unable to distinguish the ground from the surroundings and to establish his real position to continue then flight in a safely manner."
   },
   {
+    "Id": 370,
     "Date": "05/01/1935",
     "Time": "10:45",
     "Location": "Near Walsenberg, Colorado",
@@ -7770,6 +8140,7 @@
     "Summary": "Crashed at Rattlesnake Butte after the plane lost engine power. James Montijo, 40, the man who taught Amelia Earhart to fly, killed. The accidental collision with the ground while doing low flying in violation of the Air Commerce Regulations."
   },
   {
+    "Id": 371,
     "Date": "05/06/1935",
     "Time": "03:30",
     "Location": "Atlanta, Missouri",
@@ -7791,6 +8162,7 @@
     "Summary": "The plane crashed while en route from Albuquerque to Kansas City. After encountering fog and poor visibility, the plane was diverted to Kirksville where witnesses reported the low flying aircraft made contact with the ground and crashed. Whether the plane struck the ground while the pilot was attempting to make an emergency landing or because the available fuel supply had been exhausted, or for other reasons, could not be determined. New Mexico Senator Bronson M. Cutting, 46, killed. Improper clearance of the airplane from Albuquerque by the company's ground personnel when the plane's two-way radio was not functioning properly."
   },
   {
+    "Id": 372,
     "Date": "05/18/1935",
     "Time": "00:45",
     "Location": "Near Moscow, Russia",
@@ -7812,6 +8184,7 @@
     "Summary": "Midair collision with an I-5 fighter at 2,300 ft. The fighter was performing aerobatics trying to loop around the Tupolev. The plane crashed into a residental neighborhood and was on its maiden flight. The plane was nicknamed \"Maxim Gorky.\"  Pilot error. Forty-nine killed on the Tupolev, one on the I-5"
   },
   {
+    "Id": 373,
     "Date": "05/18/1935",
     "Time": "18:35",
     "Location": "Flint, Michigan",
@@ -7833,6 +8206,7 @@
     "Summary": "While on a sightseeing trip, the plane ran out of fuel and crashed. Carelessness and negligence on the part of the pilot for not replenishing his fuel supply before it got dangerously low and poor judgment on his part for attempting to return to the airport when there was open terrain ahead of him. Many passengers did not use their seatbelts nor were they instructed in their use."
   },
   {
+    "Id": 374,
     "Date": "05/27/1935",
     "Time": "16:00",
     "Location": "Glendo, Wyoming",
@@ -7854,6 +8228,7 @@
     "Summary": "While flying in poor weather conditions, the pilot decided to reduce his altitude to maintain a visual contact with the ground and crashed into a hill. The accidental collision with the ground while flying low due to severe local weather conditions."
   },
   {
+    "Id": 375,
     "Date": "05/28/1935",
     "Time": "22:25",
     "Location": "Maywood, Illinois",
@@ -7875,6 +8250,7 @@
     "Summary": "Crashed into the ground on a farm  after the pilot made an abrupt turn to avoid trees, striking the wing on the ground. The unintentional collision with the ground while flying at too low altitude at night."
   },
   {
+    "Id": 376,
     "Date": "05/29/1935",
     "Time": "",
     "Location": "San Barbra, Honduras",
@@ -7896,6 +8272,7 @@
     "Summary": "Crashed into the Ulua River."
   },
   {
+    "Id": 377,
     "Date": "06/24/1935",
     "Time": "14:36",
     "Location": "Medellin, Colombia",
@@ -7917,6 +8294,7 @@
     "Summary": "A collision occurred between the two Ford Tri-Motors as one was barely off the ground and one was still on the ground at Olaya Herrera Airfield. The accident was officially attributed to wind sheer or the one aircraft being blown into the other aircraft as it took off. Rivalry among the two pilots may have played a part in the accident as one pilot had buzzed the other four days before the accident..  Actor, singer, Carlos Gardel, 44, and his lyricist Alfredo Le Pera, 35, among those killed."
   },
   {
+    "Id": 378,
     "Date": "07/14/1935",
     "Time": "09:40",
     "Location": "Amsterdam, Netherlands",
@@ -7938,6 +8316,7 @@
     "Summary": "The plane lost altitude while attempting an emergency landing after taking off and losing two engines. The wing hit a dyke and the plane burst into flames."
   },
   {
+    "Id": 379,
     "Date": "07/19/1935",
     "Time": "14:20",
     "Location": "Off Chandeleur Island, Mississippi",
@@ -7959,6 +8338,7 @@
     "Summary": "The plane deviated from its course and flew 20 miles off shore and crashed.  Cause unknown."
   },
   {
+    "Id": 380,
     "Date": "07/20/1935",
     "Time": "12:30",
     "Location": "Pian Giacomo, Switzerland",
@@ -7980,6 +8360,7 @@
     "Summary": "Crashed into a mountain near St. Bernard Pass in Switzerland. Mountains obscured by clouds. The crew flew through the wrong valley which ended in a dead end. Icing condtions,."
   },
   {
+    "Id": 381,
     "Date": "07/23/1935",
     "Time": "",
     "Location": "Cardiff, United Kingdom",
@@ -8001,6 +8382,7 @@
     "Summary": "Shortly after taking from Cardiff Airport, and climbing, the twin engine aircraft stalled and crashed in a field. The plane was named  \"Saint Clements Bay ."
   },
   {
+    "Id": 382,
     "Date": "07/28/1935",
     "Time": "",
     "Location": "El Retiro, Colombia",
@@ -8022,6 +8404,7 @@
     "Summary": "While en route,, the crew encountered engine trouble, lost control of the aircraft and crashed  near the Rio Magdalena."
   },
   {
+    "Id": 383,
     "Date": "08/07/1935",
     "Time": "08:00",
     "Location": "Cairo, Egypt",
@@ -8043,6 +8426,7 @@
     "Summary": "Ten minutes after taking off an explosion occurred aboard and the aircraft crashed in the dessert, 8 km south of the airport. The cause of the explosion was undetermined."
   },
   {
+    "Id": 384,
     "Date": "08/13/1935",
     "Time": "",
     "Location": "Hangow, China",
@@ -8064,6 +8448,7 @@
     "Summary": "Destoryed in a storm."
   },
   {
+    "Id": 385,
     "Date": "08/14/1935",
     "Time": "23:45",
     "Location": "Near Gilmer, Texas",
@@ -8085,6 +8470,7 @@
     "Summary": "Crashed 3 miles south of Gilmer. The outboard engine separated from the aircraft after a propeller blade broke off resulting in an imbalanced condition which led to loss of control of the aircraft."
   },
   {
+    "Id": 386,
     "Date": "08/15/1935",
     "Time": "20:18",
     "Location": "Walakpa, near Point Barrow, Alaska",
@@ -8106,6 +8492,7 @@
     "Summary": "Dense fog caused the pilot to make a forced landing about 15 miles south of Point Barrow.  After some mechanical repairs, the plane took off, rose to about 50 feet and then crashed into shallow water. Loss of control of the aircraft at a low altitude after sudden engine failure due to the extreme nose-heaviness of the aircraft. Adventurer, Wiley Post, 37, and humorist, Will Rogers, 56, killed. Most experts believe that a combination of miscalculations in the design and operation of the heavily customized aircraft resulted in the uncontrollable spin that occurred right after takeoff."
   },
   {
+    "Id": 387,
     "Date": "08/15/1935",
     "Time": "20:08",
     "Location": "Near Glendo, Wyoming",
@@ -8127,6 +8514,7 @@
     "Summary": "The plane flew into a mountain 43 miles West of Glendo in heavy fog.  Against advice to the contrary, the pilot decided to fly a direct route to Denver rather than go around, following the valleys and airways used by other pilots. The direct route took him across some of the most dangerous flying country in the west."
   },
   {
+    "Id": 388,
     "Date": "09/01/1935",
     "Time": "23:00",
     "Location": "Burbank, California",
@@ -8148,6 +8536,7 @@
     "Summary": "A few minutes after take off from Burbank Airport, while climbing to a height of 1,000 feet in foggy conditions, the aircraft went out of control, stalled, hit power lines and crashed in flames in a field."
   },
   {
+    "Id": 389,
     "Date": "09/13/1935",
     "Time": "09:00",
     "Location": "Near Tambo, Panama",
@@ -8169,6 +8558,7 @@
     "Summary": "Crashed and burned in mountainous terrain in  adverse weather conditions."
   },
   {
+    "Id": 390,
     "Date": "10/02/1935",
     "Time": "09:55",
     "Location": "Off Finders Island, Victoria, Australia",
@@ -8190,6 +8580,7 @@
     "Summary": "Crashed in the Bass Strait. Went in to an uncontrollable spin following an engine failure."
   },
   {
+    "Id": 391,
     "Date": "10/07/1935",
     "Time": "02:19",
     "Location": "Near Cheyenne, Wyoming",
@@ -8211,6 +8602,7 @@
     "Summary": "While flying in a normal, slightly descending path, the aircraft  first collided with the ground just a few feet  below the top of a small knoll tearing out both engines and engine nacelles. It then rebounded and continued through the air for a distance of 1,120 feet, where it came to rest.  Error on the part of the pilot in executing an abrupt maneuver with insufficient altitude for safety and failure of the pilot to maintain proper control of the aircraft during this maneuver."
   },
   {
+    "Id": 392,
     "Date": "10/09/1935",
     "Time": "",
     "Location": "Gulf of Finland",
@@ -8232,6 +8624,7 @@
     "Summary": "Crashed into the sea in the dense fog and low visibility."
   },
   {
+    "Id": 393,
     "Date": "10/21/1935",
     "Time": "11:00",
     "Location": "Troy, New York",
@@ -8253,6 +8646,7 @@
     "Summary": "The plane lost the left engine shortly after taking off. The pilot tried to make an emergency landing but was caught in a downdraft and the plane crashed."
   },
   {
+    "Id": 394,
     "Date": "10/30/1935",
     "Time": "19:40",
     "Location": "Cheyenne, Wyoming",
@@ -8274,6 +8668,7 @@
     "Summary": "Crashed into a hill in poor weather conditions 5 miles south of Cheyenne. Test flight. Poor judgment by the pilot for executing an abrupt maneuver with insufficient altitude for safety and  failure of the pilot to maintain proper control of the aircraft during this maneuver."
   },
   {
+    "Id": 395,
     "Date": "11/02/1935",
     "Time": "",
     "Location": "Off Nhambupe, Brazil",
@@ -8295,6 +8690,7 @@
     "Summary": "The postal plane crashed at Atalaya Beach in unknown circumstances."
   },
   {
+    "Id": 396,
     "Date": "11/09/1935",
     "Time": "04:40",
     "Location": "Near Fort Worth, Texas",
@@ -8316,6 +8712,7 @@
     "Summary": "Plunged to the ground thirty minutes after leaving Fort Worth. Tried to return to Dallas airport due to inclement weather."
   },
   {
+    "Id": 397,
     "Date": "11/09/1935",
     "Time": "",
     "Location": "Brindisi, Italy",
@@ -8337,6 +8734,7 @@
     "Summary": "While preparing for departure a fire broke out. The fire erupted while fueling."
   },
   {
+    "Id": 398,
     "Date": "11/11/1935",
     "Time": "",
     "Location": "Istres, France",
@@ -8358,6 +8756,7 @@
     "Summary": "Crashed whille flying in the vicinity of a thunderstorm."
   },
   {
+    "Id": 399,
     "Date": "12/04/1935",
     "Time": "",
     "Location": "Tours, France",
@@ -8379,6 +8778,7 @@
     "Summary": "On final approach, the aircraft was too low and hit a tree with it's right wing. It stalled and crashed in a garden short of the runway."
   },
   {
+    "Id": 400,
     "Date": "12/10/1935",
     "Time": "16:45",
     "Location": "Croydon, England",
@@ -8400,6 +8800,7 @@
     "Summary": "While flying low, the aircraft hit tree tops, stalled and crashed in flames into a wooded area 13 km short of the runway, The pilot did not request bearings from the airport and tried to navigate on his own."
   },
   {
+    "Id": 401,
     "Date": "12/24/1935",
     "Time": "",
     "Location": "Wroctaw, Poland",
@@ -8421,6 +8822,7 @@
     "Summary": "Crashed under unknown circumstances"
   },
   {
+    "Id": 402,
     "Date": "12/31/1935",
     "Time": "19:15",
     "Location": "Off Alexandria, Egypt",
@@ -8442,6 +8844,7 @@
     "Summary": "The aircraft ran out of fuel and crashed off Alexandria. The plane was named \"The City of Khartoum."
   },
   {
+    "Id": 403,
     "Date": "01/14/1936",
     "Time": "",
     "Location": "Tres Esquinas, Colombia",
@@ -8463,6 +8866,7 @@
     "Summary": "The float plane crashed after experiencing unknown technical difficulties while attempting to land."
   },
   {
+    "Id": 404,
     "Date": "01/14/1936",
     "Time": "19:32",
     "Location": "Goodwin, Arkansas",
@@ -8484,6 +8888,7 @@
     "Summary": "Flew into trees and disintegrated. The cause of the crash could not be determined.  Possible causes include, passenger interference, one fuel tank running dry, flying too low and the co-pilot alone at the controls."
   },
   {
+    "Id": 405,
     "Date": "01/17/1936",
     "Time": "",
     "Location": "Near Cordillera, Boliva",
@@ -8505,6 +8910,7 @@
     "Summary": "Crashed into a mountain near the village of Tapacari, 23 miles from Chochabanba."
   },
   {
+    "Id": 406,
     "Date": "01/21/1936",
     "Time": "10:00",
     "Location": "Off Ajaccio, Corsica, France",
@@ -8526,6 +8932,7 @@
     "Summary": "Vanished off the coast of Corsica after sending a distress call that the engine had failed."
   },
   {
+    "Id": 407,
     "Date": "01/29/1936",
     "Time": "",
     "Location": "Denton, Texas",
@@ -8547,6 +8954,7 @@
     "Summary": "Crashed into a clump of trees while attempting a landing in a snowstorm."
   },
   {
+    "Id": 408,
     "Date": "02/10/1936",
     "Time": "",
     "Location": "Atlantic Ocean",
@@ -8568,6 +8976,7 @@
     "Summary": "Disappeared over the Atlantic ocean during a storm. The aircraft was never found. The aircraft was named \"Ville de Buenos Aires."
   },
   {
+    "Id": 409,
     "Date": "02/15/1936",
     "Time": "03:52",
     "Location": "South Atlantic Ocean",
@@ -8589,6 +8998,7 @@
     "Summary": "The mail plane disappeared while en route."
   },
   {
+    "Id": 410,
     "Date": "03/05/1936",
     "Time": "",
     "Location": "Near Tengya, China",
@@ -8610,6 +9020,7 @@
     "Summary": "Crash landed in mountains during a snowstorm."
   },
   {
+    "Id": 411,
     "Date": "03/14/1936",
     "Time": "",
     "Location": "Ovalle, Chile",
@@ -8631,6 +9042,7 @@
     "Summary": "Went out of control while taking off and crashed in a rivine."
   },
   {
+    "Id": 412,
     "Date": "03/26/1936",
     "Time": "11:00",
     "Location": "Amemeca, Mexico",
@@ -8652,6 +9064,7 @@
     "Summary": "While making a turn at low speed, the aircraft stalled and crashed into mountains and caught fire.  The plane was carrying mainly German tourists. Possibly caught in a down draft when flying too low to the ground."
   },
   {
+    "Id": 413,
     "Date": "04/01/1936",
     "Time": "19:10",
     "Location": "Pavillon, New York",
@@ -8673,6 +9086,7 @@
     "Summary": "The mail plane explosion in mid-air before crashing to the ground in a snowstorm."
   },
   {
+    "Id": 414,
     "Date": "04/07/1936",
     "Time": "10:20",
     "Location": "Uniontown, Pennsylvania",
@@ -8694,6 +9108,7 @@
     "Summary": "Crashed into Chestnut Ridge in fog. The poor  judgment on the part of the pilot for flying by visual ground observation methods after having descended through the clouds and overcast in mountainous terrain at a point unknown to him. Because of clouds and poor visibility, this required flying close to the ground whereas the safest method under such circumstances was to climb into or above the overcast to a safe altitude and determine the location of the plane by instruments and radio."
   },
   {
+    "Id": 415,
     "Date": "04/11/1936",
     "Time": "05:20",
     "Location": "Port of Spain, Trinidad",
@@ -8715,6 +9130,7 @@
     "Summary": "Crashed  while taking off after the plane hit a boat . The aircraft was shipped to Miami and repaired. One of the injured passengers was Jose Iturbi, well known conductor and  pianist."
   },
   {
+    "Id": 416,
     "Date": "04/15/1936",
     "Time": "",
     "Location": "Near Turin, Italy",
@@ -8736,6 +9152,7 @@
     "Summary": "Crashed on the slopes of Mount Basso, 20 miles from Turin."
   },
   {
+    "Id": 417,
     "Date": "04/17/1936",
     "Time": "",
     "Location": "Orvin, Switzerland",
@@ -8757,6 +9174,7 @@
     "Summary": "Deviated from the prescribed course and hit a mountain in poor weather conditions. Navigation error by the crew."
   },
   {
+    "Id": 418,
     "Date": "04/21/1936",
     "Time": "",
     "Location": "Senlis, France",
@@ -8778,6 +9196,7 @@
     "Summary": "Following taking off the cargo plane went out of control and crashed near Le Bourget Airport."
   },
   {
+    "Id": 419,
     "Date": "04/30/1936",
     "Time": "",
     "Location": "Basel, Switzerland",
@@ -8799,6 +9218,7 @@
     "Summary": "The cargo plane crashed into Mt. Rigi at night in poor weather conditons."
   },
   {
+    "Id": 420,
     "Date": "05/16/1936",
     "Time": "",
     "Location": "Mount Waverley, Australia",
@@ -8820,6 +9240,7 @@
     "Summary": "The aircraft hit telephone wires and a chimney before crashing in flames into a house."
   },
   {
+    "Id": 421,
     "Date": "06/09/1936",
     "Time": "",
     "Location": "Malmo, Sweden",
@@ -8841,6 +9262,7 @@
     "Summary": "All four motors of the aircraft quit while taking off. The pilot attempted to land but crashed into a house. First fatal aviation accident in Sweden.The captain mistakenly opened the throttles instead of selecting the propeller pitch handles while the engines were in weak mixture, causing all four to stall out."
   },
   {
+    "Id": 422,
     "Date": "06/13/1936",
     "Time": "",
     "Location": "Hannover, Germany",
@@ -8862,6 +9284,7 @@
     "Summary": "The pilot attempted an emergency landing in a field after the engine failured. The aircraft was named \"Puma."
   },
   {
+    "Id": 423,
     "Date": "06/16/1936",
     "Time": "07:00",
     "Location": "Mt. Lihesten, Norway",
@@ -8883,6 +9306,7 @@
     "Summary": "While cruising, the aircraft crashed into the south face of Mt. Lyhesten in fog."
   },
   {
+    "Id": 424,
     "Date": "07/15/1936",
     "Time": "",
     "Location": "Zagreb, Croatia",
@@ -8904,6 +9328,7 @@
     "Summary": "Shortly after taking off in fog the aircraft went out of control and crashed into a field."
   },
   {
+    "Id": 425,
     "Date": "07/28/1936",
     "Time": "",
     "Location": "Kulyab, Tajikistan",
@@ -8925,6 +9350,7 @@
     "Summary": "The landing gear failed on landing. The aircraft veered off the runway and burst into flames."
   },
   {
+    "Id": 426,
     "Date": "07/31/1936",
     "Time": "19:30",
     "Location": "Off Channel Islands, Jersey",
@@ -8946,6 +9372,7 @@
     "Summary": "Ditched at sea. Loss of all engines necessitating a ditching at sea."
   },
   {
+    "Id": 427,
     "Date": "08/02/1936",
     "Time": "06:00",
     "Location": "Mazamet, France",
@@ -8967,6 +9394,7 @@
     "Summary": "The mail plane crashed into mountains 50 miles from Toulouse in fog."
   },
   {
+    "Id": 428,
     "Date": "08/03/1936",
     "Time": "",
     "Location": "Ciudad Serdan,Mexico",
@@ -8988,6 +9416,7 @@
     "Summary": "Crashed while delivering mail."
   },
   {
+    "Id": 429,
     "Date": "08/05/1936",
     "Time": "22:00",
     "Location": "St. Louis, Missouri",
@@ -9009,6 +9438,7 @@
     "Summary": "Crashed while attempting to take off from Lambert Field.  The making of a turn at an extremely low altitude, for reasons unknown, in which the wing of the airplane unintentionally contacted the ground."
   },
   {
+    "Id": 430,
     "Date": "08/06/1936",
     "Time": "",
     "Location": "Choco, Colombia",
@@ -9030,6 +9460,7 @@
     "Summary": "The float plane crashed under unknown circumstances."
   },
   {
+    "Id": 431,
     "Date": "08/12/1936",
     "Time": "03:00",
     "Location": "Altenkirchen, Germany",
@@ -9051,6 +9482,7 @@
     "Summary": "The mail plane crashed at night under unknown circumstances."
   },
   {
+    "Id": 432,
     "Date": "08/22/1936",
     "Time": "",
     "Location": "Mirabella, Greece",
@@ -9072,6 +9504,7 @@
     "Summary": "While attempting to land, the plane hit high waves and broke up. Strong lateral winds while landing on rough sea."
   },
   {
+    "Id": 433,
     "Date": "09/05/1936",
     "Time": "22:00",
     "Location": "Near Pittsburgh, Pennsylvania",
@@ -9093,6 +9526,7 @@
     "Summary": "Lost all three engines after the fuel supply was cut off. Possibly a passenger shut off the fuel supply by accident with the heel of her shoe. One 17 year old girl survived."
   },
   {
+    "Id": 434,
     "Date": "09/25/1936",
     "Time": "",
     "Location": "English Channel",
@@ -9114,6 +9548,7 @@
     "Summary": "Crashed under unknown circumstances while delivering mail."
   },
   {
+    "Id": 435,
     "Date": "09/28/1936",
     "Time": "",
     "Location": "Walsenberg, Colorado",
@@ -9135,6 +9570,7 @@
     "Summary": "Crashed in a snowstorm after the pilot cut the motor and the plane crashed into a hill."
   },
   {
+    "Id": 436,
     "Date": "09/28/1936",
     "Time": "",
     "Location": "Benghazi, Libya",
@@ -9156,6 +9592,7 @@
     "Summary": "Suffered engine failue on the approach,struck the mast of a ship and burst into flames."
   },
   {
+    "Id": 437,
     "Date": "09/29/1936",
     "Time": "",
     "Location": "Napierville, Illinois",
@@ -9177,6 +9614,7 @@
     "Summary": "A half-hour after taking off, the engine failed and the plane crashed into a fence and burst into flames  while making a forced landing."
   },
   {
+    "Id": 438,
     "Date": "10/06/1936",
     "Time": "",
     "Location": "Francisco Rueda,  Tabasco, Mexico",
@@ -9198,6 +9636,7 @@
     "Summary": "The mail plane crashed for reasons unknown."
   },
   {
+    "Id": 439,
     "Date": "10/09/1936",
     "Time": "",
     "Location": "Selby, North Yorkshire, United Kingdom",
@@ -9219,6 +9658,7 @@
     "Summary": "The mail plane crashed under unknown circumstances."
   },
   {
+    "Id": 440,
     "Date": "11/01/1936",
     "Time": "15:00",
     "Location": "Near Tabarz, Germany",
@@ -9240,6 +9680,7 @@
     "Summary": "While encountering heavy fog the aircraft was flying too low and hit tree tops before crashing into flames in a wooded area. It was believed that the pilot had ‘lost his bearings’ while flying in a heavy fog, resulting in either a controlled impact with the terrain or an uncontrolled descent into the ground."
   },
   {
+    "Id": 441,
     "Date": "11/17/1936",
     "Time": "14:00",
     "Location": "Nurnberg, Germany",
@@ -9261,6 +9702,7 @@
     "Summary": "On approach to Nuremberg Airport in foggy conditions, the aircraft deviated from the prescribed course and was too low when it hit tree tops and crashed in a wooded area. Pilot error."
   },
   {
+    "Id": 442,
     "Date": "11/19/1936",
     "Time": "03:38",
     "Location": "London, England",
@@ -9282,6 +9724,7 @@
     "Summary": "The mail plane attempted to land in strong winds and poor weather conditons. Pilot error."
   },
   {
+    "Id": 443,
     "Date": "12/04/1936",
     "Time": "12:00",
     "Location": "Near Grenoble, France",
@@ -9303,6 +9746,7 @@
     "Summary": "Crashed into the French Alps  in high winds. The plane was named \"Rudolf Windisch."
   },
   {
+    "Id": 444,
     "Date": "12/06/1936",
     "Time": "",
     "Location": "Near Moscow, Russia",
@@ -9324,6 +9768,7 @@
     "Summary": "Crashed short of the runway while attempting to land."
   },
   {
+    "Id": 445,
     "Date": "12/07/1936",
     "Time": "10:47",
     "Location": "Off Dakar, French West Africa",
@@ -9345,6 +9790,7 @@
     "Summary": "The last message from the aviator was \"we have switched off the rear engine.\" The plane and crew of four were never found. Aviator Jean Mermoz killed."
   },
   {
+    "Id": 446,
     "Date": "12/09/1936",
     "Time": "10:30",
     "Location": "Croydon, England",
@@ -9366,6 +9812,7 @@
     "Summary": "The aircraft crashed into houses while attempting to take off in heavy fog. A stewardess and the radio operator survived. Aircraft designer Juan de la Cierva killed. Pilot error. Piilot did not maintain directional control of the aircraft and abort the takeoff"
   },
   {
+    "Id": 447,
     "Date": "12/15/1936",
     "Time": "03:14",
     "Location": "Near Salt Lake City, Utah",
@@ -9387,6 +9834,7 @@
     "Summary": "Crashed into Lone Peak while attempting to land at Salt Lake. Inability of the pilots to identify the south leg of the Salt Lake radio range due to a local static condition which rendered both range receivers in the airplane inoperative."
   },
   {
+    "Id": 448,
     "Date": "12/18/1936",
     "Time": "03:23",
     "Location": "Kellogg, Idaho",
@@ -9408,6 +9856,7 @@
     "Summary": "The mail plane crashed into Early Creek Ridge, 15 miles south of Kellogg, in a blizzard. Pilot error in not following the radio range course upon leaving Missoula and failing to ascent to a safe altitude over the course pursued from Elk River."
   },
   {
+    "Id": 449,
     "Date": "12/19/1936",
     "Time": "20:47",
     "Location": "Near Milford, Pennsylvania",
@@ -9429,6 +9878,7 @@
     "Summary": "Crashed into trees in poor weather while attempting to land at Newark. Error on the part of the pilot for attempting to get down under the overcast without first definitely proving his position.  Improper dispatching for clearing the flight into an area of predicted bad weather, particularly when the area cleared through did not permit a safe return, and static conditions encountered which rendered reception of the radio range signals over the airplane's range receivers unintelligible."
   },
   {
+    "Id": 450,
     "Date": "12/23/1936",
     "Time": "",
     "Location": "Near Dallas, Texas",
@@ -9450,6 +9900,7 @@
     "Summary": "After an attempted go-around the right engine failed and the plane crashed and burst into flames into a corn field.."
   },
   {
+    "Id": 451,
     "Date": "12/26/1936",
     "Time": "",
     "Location": "Nanking, China",
@@ -9471,6 +9922,7 @@
     "Summary": ""
   },
   {
+    "Id": 452,
     "Date": "12/27/1936",
     "Time": "19:38",
     "Location": "Newhall, California",
@@ -9492,6 +9944,7 @@
     "Summary": "While on approach to Burbank Airport, the airliner crashed into Rice Canyon, just south of Newhall.  It was raining with poor visibility. The aircraft flew into a hill loosing its wings, continued without wings across Rice Canyon and struck against a rocky wall of a bluff and dropped over a hundred feet to the bottom of the canyon.  Error on the part of the pilot in attempting to fly through the Newhall pass at an altitude lower than the surrounding mountains without first determining by radio, the existing weather."
   },
   {
+    "Id": 453,
     "Date": "01/11/1937",
     "Time": "10:30",
     "Location": "Near Playa V icente, Veracruz, Mexico",
@@ -9513,6 +9966,7 @@
     "Summary": "After starting a descent, the aircraft crashed into Playa Vincente in adverse weather."
   },
   {
+    "Id": 454,
     "Date": "01/12/1937",
     "Time": "11:07",
     "Location": "Near Newhall, California",
@@ -9534,6 +9988,7 @@
     "Summary": "The aircraft crashed into Pinetos Peak, 4 miles southeast of Newhall while attempting to land at Burbank Airport in fog and rain. The pilot descended to a dangerously low altitude without positive knowledge of his position. African explorer, Martin Johnson, 52, killed. Johnson suffered a fractured skull in the crash and died the next day in a hospital."
   },
   {
+    "Id": 455,
     "Date": "01/26/1937",
     "Time": "17:30",
     "Location": "Oran, Algeria",
@@ -9555,6 +10010,7 @@
     "Summary": "While attempting to land the aircraft went out of control and crashed."
   },
   {
+    "Id": 456,
     "Date": "02/09/1937",
     "Time": "20:50",
     "Location": "Off San Francisco, California",
@@ -9576,6 +10032,7 @@
     "Summary": "The aircraft crashed into San Francisco Bay, approximately 2 miles offshore, while on approach. The accidental jamming of the elevator controls as the result of the co-pilot's microphone being inadvertently dropped and lodged between the elevator control column and the seat rail in such a way that the crew was unable to prevent rapid descent of the airplane. First accident involving a DC-3."
   },
   {
+    "Id": 457,
     "Date": "02/19/1937",
     "Time": "13:40",
     "Location": "McPherson Ranges, Queensland, Australia",
@@ -9597,6 +10054,7 @@
     "Summary": "Flying low to maintain visual contact with the ground the plane ran into downdrafts that exceeded its ability to climb. The plane crashed and burned."
   },
   {
+    "Id": 458,
     "Date": "03/12/1937",
     "Time": "",
     "Location": "Bathurst, Gambia",
@@ -9618,6 +10076,7 @@
     "Summary": "The German mail plane crashed into a swamp. The plane was named 'Rostock."
   },
   {
+    "Id": 459,
     "Date": "03/24/1937",
     "Time": "14:00",
     "Location": "Near Ouroux, France",
@@ -9639,6 +10098,7 @@
     "Summary": "Crashed into trees on a mountainside in a snowstorm."
   },
   {
+    "Id": 460,
     "Date": "03/25/1937",
     "Time": "18:40",
     "Location": "Clifton, Pennsylvania",
@@ -9660,6 +10120,7 @@
     "Summary": "While attempting to land the aircraft banked left and crashed short of the runway. Heavy icing which rendered the plane uncontrollable."
   },
   {
+    "Id": 461,
     "Date": "03/26/1937",
     "Time": "",
     "Location": "Wetnum, Germany",
@@ -9681,6 +10142,7 @@
     "Summary": "Engine failure led to a crash landing in a field."
   },
   {
+    "Id": 462,
     "Date": "05/06/1937",
     "Time": "19:25",
     "Location": "Lakehurst, New Jersey",
@@ -9702,6 +10164,7 @@
     "Summary": "The airship Hindenburg caught fire and burned while being moored at Lakehurst, New Jersey.  Possible causes were static discharge which ignited leaking hydrogen or sabotage. It has been theorized that a sudden turn just before landing caused a steel cable to snap which punctured one of the hydrogen airbags. Thereafter, when mooring ropes were dropped to the ground, the cage was discharged setting up a static discharge between the Hindenburg's outer skin and frame causing the hydrogen to ignite."
   },
   {
+    "Id": 463,
     "Date": "05/20/1937",
     "Time": "",
     "Location": "Stuttgart, Germany",
@@ -9723,6 +10186,7 @@
     "Summary": "Stalled and crashed on takeoff."
   },
   {
+    "Id": 464,
     "Date": "06/02/1937",
     "Time": "05:30",
     "Location": "Wadi Halfa, Sudan",
@@ -9744,6 +10208,7 @@
     "Summary": "On final approach at night, the crew elected to make a go around for unknown reasons. The aircraft stalled and crashed short of runway."
   },
   {
+    "Id": 465,
     "Date": "07/02/1937",
     "Time": "",
     "Location": "Off Lae, New Guinea",
@@ -9765,6 +10230,7 @@
     "Summary": "The plane disappeared while en route from  Lae to Howland Island. The aircraft had to be flown higher than expected due to storms which used extra fuel.  In addition, strong head winds were encountered.  The aircraft most likely ran out of fuel and ditched into the ocean 50 to 100 miles northwest of Howland Island. Amelia Earhart, 40, and navigator Fred Noonan, killed."
   },
   {
+    "Id": 466,
     "Date": "07/28/1937",
     "Time": "10:40",
     "Location": "Hal, Belgium",
@@ -9786,6 +10252,7 @@
     "Summary": "The aircraft crashed  into a potato field after possibly being struck by lightning and after an in-flight fire."
   },
   {
+    "Id": 467,
     "Date": "08/02/1937",
     "Time": "",
     "Location": "Wadi Halfa, Sudan",
@@ -9807,6 +10274,7 @@
     "Summary": "Crashed into a building on takeoff. The accident happened after the crew abandoned the approach and attempt an overshoot maneuver,"
   },
   {
+    "Id": 468,
     "Date": "08/03/1937",
     "Time": "19:38",
     "Location": "Off Cristobal, Panama",
@@ -9828,6 +10296,7 @@
     "Summary": "The flying boat plunged into the ocean 20 miles off of Cristobal. The plane probably struck the water at high speed and was destroyed by an immediate explosion and fire."
   },
   {
+    "Id": 469,
     "Date": "08/06/1937",
     "Time": "",
     "Location": "Bistrita, Romania",
@@ -9849,6 +10318,7 @@
     "Summary": "While en route, the plane caught fire and crashed. A passenger lit a cigarette in the rear toilet and ignited accumulated vapors."
   },
   {
+    "Id": 470,
     "Date": "08/08/1937",
     "Time": "10:50",
     "Location": "Chilang Point, Bias Bay, China",
@@ -9870,6 +10340,7 @@
     "Summary": "Forced to ditch into the sea due to bad weather. One wing broke off due to high waves and 8 passengers hung on to the remaining wing until rescued. The aircraft was named Chekiang."
   },
   {
+    "Id": 471,
     "Date": "08/10/1937",
     "Time": "04:40",
     "Location": "Daytona Beach, Florida",
@@ -9891,6 +10362,7 @@
     "Summary": "The plane struck a power pole while taking off from Daytona and crashed to the ground 600 feet from the first point of impact. The absence of reasonable notice to those operating and navigating the aircraft that an object had been erected which constituted a hazard to the aircraft taking off."
   },
   {
+    "Id": 472,
     "Date": "08/23/1937",
     "Time": "",
     "Location": "San Luis, Argentina",
@@ -9912,6 +10384,7 @@
     "Summary": "The cargo plane crashed and burned in a field while en route after entering dense fog."
   },
   {
+    "Id": 473,
     "Date": "08/27/1937",
     "Time": "",
     "Location": "Wau, Papua New Guinea",
@@ -9933,6 +10406,7 @@
     "Summary": "After taking off in foggy condition, the cargo plane lost altitude and crashed into a house."
   },
   {
+    "Id": 474,
     "Date": "10/01/1937",
     "Time": "",
     "Location": "Phaleron Bay, Greece",
@@ -9954,6 +10428,7 @@
     "Summary": "Crashed as it landed in Phaleron Bay. Two passengers drowned. Poor visibility was blamed for the accident."
   },
   {
+    "Id": 475,
     "Date": "10/06/1937",
     "Time": "12:25",
     "Location": "Palembang, Netherlands Indies",
@@ -9975,6 +10450,7 @@
     "Summary": "While in initial climb, the left engine failed. The crew decided to return for a safe landing but the aircraft hit  tree tops, stalled and crashed. Bronislaw Hubermann, celibrated Polish violinist was sightly injured."
   },
   {
+    "Id": 476,
     "Date": "10/17/1937",
     "Time": "21:00",
     "Location": "Haydens Peak, Wyoming",
@@ -9996,6 +10472,7 @@
     "Summary": "The plane crashed into the side of a mountain (Humpy Ridge)  in level flight at 10,000 ft. under adverse weather conditions. Static conditions encountered in the last portion of the flight which rendered the reception of radio range signals unintelligible. The continuation of the flight into mountainous country at an altitude below of higher mountains without the aid of ground visibility or radio signals to definitely identify position. A change in the weather caused by the approach of an unpredicted cold front."
   },
   {
+    "Id": 477,
     "Date": "10/26/1937",
     "Time": "04:23",
     "Location": "Off Western Africa",
@@ -10017,6 +10494,7 @@
     "Summary": "Disappeared after sending a distress call while en route."
   },
   {
+    "Id": 478,
     "Date": "11/12/1937",
     "Time": "",
     "Location": "Warsaw, Poland",
@@ -10038,6 +10516,7 @@
     "Summary": "On final approach at night and in poor visibility due to fog, the pilot flew too low, hit power lines and crashed in a field."
   },
   {
+    "Id": 479,
     "Date": "11/12/1937",
     "Time": "16:50",
     "Location": "Mannheim, Germany",
@@ -10059,6 +10538,7 @@
     "Summary": "Hit the ground prematurely while attempting to land in fog."
   },
   {
+    "Id": 480,
     "Date": "11/16/1937",
     "Time": "15:30",
     "Location": "Ostende, Belgium",
@@ -10080,6 +10560,7 @@
     "Summary": "The aircraft was flying from Cologne to London and should have made a scheduled stop at Brussel's Haren airport.  However, Brussels was shrouded in fog and the pilot was advised to fly on to Ostend. Weather conditions were poor in Ostend as well and the aircraft hit a factory chimney while flying on approach to Ostend Stene airport.  All on board were killed including the Grand Duke and Duchess of Hesse who were traveling to London for a minor royal wedding. An airport employee was blamed for not guiding the pilot down in conditions of poor visibility."
   },
   {
+    "Id": 481,
     "Date": "11/26/1937",
     "Time": "",
     "Location": "Croydon, United Kingdom",
@@ -10101,6 +10582,7 @@
     "Summary": "Engine failure on takeoff caused the cargo plane to stall and crash into a hanger."
   },
   {
+    "Id": 482,
     "Date": "12/04/1937",
     "Time": "",
     "Location": "Munich, Germany",
@@ -10122,6 +10604,7 @@
     "Summary": "Crashed into a hill while on approach in low visibility."
   },
   {
+    "Id": 483,
     "Date": "12/05/1937",
     "Time": "",
     "Location": "Brindisi, Italy",
@@ -10143,6 +10626,7 @@
     "Summary": "Stalled during takeoff and crashed into the sea. Wrong flap setting for takeoff, causing the aircraft to stall."
   },
   {
+    "Id": 484,
     "Date": "12/05/1937",
     "Time": "09:00",
     "Location": "Brindisi Harbor, Italy",
@@ -10164,6 +10648,7 @@
     "Summary": "The flying boat crashed while attempting to take off. The aircraft was named Cygnus."
   },
   {
+    "Id": 485,
     "Date": "12/08/1937",
     "Time": "",
     "Location": "Saint Sauveur, France",
@@ -10185,6 +10670,7 @@
     "Summary": "Crashed in poor weather conditions while flying too low hitting Pas de la Motte peak."
   },
   {
+    "Id": 486,
     "Date": "12/24/1937",
     "Time": "17:30",
     "Location": "Kasperske Hory, Czechoslovakia",
@@ -10206,6 +10692,7 @@
     "Summary": "The plane was 10 minutes from landing at Vienna when it was told to change course by the Prague airport controller. The change took the plane into mountainous terrain in snowy conditions. The plane impacted Hutska Hora mountain at an alitiude of 3,300 feet. The cause was never determined. Possibly a naviational error or for political reasons."
   },
   {
+    "Id": 487,
     "Date": "01/04/1938",
     "Time": "",
     "Location": "Frankfurt, Germany",
@@ -10227,6 +10714,7 @@
     "Summary": "Crashed short of the runway while attempting to land in snow and icing conditions."
   },
   {
+    "Id": 488,
     "Date": "01/10/1938",
     "Time": "15:07",
     "Location": "Bozeman, Montana",
@@ -10248,6 +10736,7 @@
     "Summary": "The aircraft crashed 12 miles northeast of Bozeman after experiencing structural failure of the tail. There was severe turbulence reported in the area at the time of the accident. The structural failure of the upper vertical fins and rudders due to flutter \"natural resonance, or period of vibration\" which resulted in the separation of the rudder and fins and loss of control of the aircraft."
   },
   {
+    "Id": 489,
     "Date": "01/11/1938",
     "Time": "08:03",
     "Location": "Pago Pago, U.S. Samoa",
@@ -10269,6 +10758,7 @@
     "Summary": "The aircraft exploded in mid-air as the crew attempted to dump fuel for an emergency landing at Pago Pago. Neither the plane or seven crew members were ever found. The aircraft was named \"Samoan Clipper.\"  Pan American's first and chief pilot, Captain Edwin C. Musick, killed."
   },
   {
+    "Id": 490,
     "Date": "01/12/1938",
     "Time": "",
     "Location": "North Pine, Ontario, Canada",
@@ -10290,6 +10780,7 @@
     "Summary": "Crashed in rugged terrain while en route."
   },
   {
+    "Id": 491,
     "Date": "02/02/1938",
     "Time": "20:40",
     "Location": "Off San Clemente Island, California",
@@ -10311,6 +10802,7 @@
     "Summary": "The two aircraft crashed in mid-air in heavy rain and darkness and crashed into the sea."
   },
   {
+    "Id": 492,
     "Date": "02/05/1938",
     "Time": "",
     "Location": "Kandalaksha, Russia",
@@ -10332,6 +10824,7 @@
     "Summary": "The airship crashed while on a trial flight in preparation of rescuing  Russian scientists on an ice floe in Greenland. The airship crashed into the side of a mountain."
   },
   {
+    "Id": 493,
     "Date": "02/09/1938",
     "Time": "",
     "Location": "Guadalupe, Mexico",
@@ -10353,6 +10846,7 @@
     "Summary": "Crashed on a second test flight."
   },
   {
+    "Id": 494,
     "Date": "02/09/1938",
     "Time": "07:30",
     "Location": "Marseille, France",
@@ -10374,6 +10868,7 @@
     "Summary": "The flying boat struck the breakwater in fog at 60 miles an hour and burst into flames while attempting to take off."
   },
   {
+    "Id": 495,
     "Date": "02/13/1938",
     "Time": "14:30",
     "Location": "Mediterranean Sea",
@@ -10395,6 +10890,7 @@
     "Summary": "Disappeared over the Mediterranean Sea while flying in a storm."
   },
   {
+    "Id": 496,
     "Date": "02/22/1938",
     "Time": "04:45",
     "Location": "Pontoise, France",
@@ -10416,6 +10912,7 @@
     "Summary": "The mail plane crashed in fog within a few miles of it's destination near Bourget Airport."
   },
   {
+    "Id": 497,
     "Date": "03/01/1938",
     "Time": "21:30",
     "Location": "Near Wawona, Cailifornia",
@@ -10437,6 +10934,7 @@
     "Summary": "Crashed into the high Sierra after encountering a severe weather front while en route. The pilot radioed that ice was forming on the DC-2's wings as it neared the Tehachapi Mountains near Bakersfield and that he was turning back towards the north to land at Fresno. The aircraft sheared off the tops of pine trees and crashed 200 feet below a summit. The wreckage was not found until 6/12/38."
   },
   {
+    "Id": 498,
     "Date": "03/07/1938",
     "Time": "",
     "Location": "Datia, India",
@@ -10458,6 +10956,7 @@
     "Summary": "Crashed and burst into flames shortly after taking off from Dum Dum."
   },
   {
+    "Id": 499,
     "Date": "03/08/1938",
     "Time": "",
     "Location": "Somerton, Australia",
