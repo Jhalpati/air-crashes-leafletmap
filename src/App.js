@@ -1,6 +1,5 @@
-import React, { useState, useEffect } from "react";
-import { MapContainer, TileLayer, useMap, Marker, Popup } from "react-leaflet";
-import L, { setOptions } from "leaflet";
+import React from "react";
+import { MapContainer, TileLayer, Marker, Popup } from "react-leaflet";
 import "./App.css";
 import airFatalitites from './air-fatalitites.json';
 
